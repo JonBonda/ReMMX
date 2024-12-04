@@ -1,0 +1,3524 @@
+fileFormatVersion: 2
+guid: 95505abdf96e681488f20f44b695fe7e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -203617096625823457
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_0
+  - first:
+      213: 3115701484185763107
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_1
+  - first:
+      213: -6100238170388772020
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_2
+  - first:
+      213: 3999692944531239835
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_3
+  - first:
+      213: -8986684939012544562
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_4
+  - first:
+      213: -2252977419272737757
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_5
+  - first:
+      213: 4065346982459328526
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_6
+  - first:
+      213: -5783862999800658199
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_7
+  - first:
+      213: 7328608991166349684
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_8
+  - first:
+      213: -8093904879450748199
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_9
+  - first:
+      213: 4728773963075638986
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_10
+  - first:
+      213: 3662009248009520482
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_11
+  - first:
+      213: 1067327599173307971
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_12
+  - first:
+      213: -4000268155145622859
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_13
+  - first:
+      213: -7182597383171990195
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_14
+  - first:
+      213: -4693119479975143627
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_15
+  - first:
+      213: 7485436712128111740
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_16
+  - first:
+      213: 1207949866677220490
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_17
+  - first:
+      213: 4323157855883095348
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_18
+  - first:
+      213: 5317530219223349656
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_19
+  - first:
+      213: 2707813511195720333
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_20
+  - first:
+      213: -234250936684804525
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_21
+  - first:
+      213: 8892242690640422621
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_22
+  - first:
+      213: 1097618647573621603
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_23
+  - first:
+      213: 1373245839080668950
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_24
+  - first:
+      213: -2349315047943933066
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_25
+  - first:
+      213: 1141886294774814120
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_26
+  - first:
+      213: -4042954106226810265
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_27
+  - first:
+      213: -3257481337745961055
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_28
+  - first:
+      213: 619895895078014906
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_29
+  - first:
+      213: -3308394543828985439
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_30
+  - first:
+      213: 5009571945830431454
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_31
+  - first:
+      213: 1714347124355679027
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_32
+  - first:
+      213: -3261801948654559095
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_33
+  - first:
+      213: -7486990641222386179
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_34
+  - first:
+      213: -6638256813542972455
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_35
+  - first:
+      213: -5934437514323369115
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_36
+  - first:
+      213: -5456287582168166171
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_37
+  - first:
+      213: 4376645930195561755
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_38
+  - first:
+      213: 5823199323811784789
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_39
+  - first:
+      213: 5391582516535402948
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_40
+  - first:
+      213: -3045011503068717779
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_41
+  - first:
+      213: -779485520140176152
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_42
+  - first:
+      213: 7413005707340019030
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_43
+  - first:
+      213: 5585020799821029884
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_44
+  - first:
+      213: 2607020982742752907
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_45
+  - first:
+      213: 6889736257441883756
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_46
+  - first:
+      213: -2299965314016231921
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_47
+  - first:
+      213: 4266174214677095094
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_48
+  - first:
+      213: 492651189450949256
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_49
+  - first:
+      213: 7494814070884229666
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_50
+  - first:
+      213: 461100676276104520
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_51
+  - first:
+      213: 8656449464817115065
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_52
+  - first:
+      213: -733049405559883709
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_53
+  - first:
+      213: 897357838977212019
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_54
+  - first:
+      213: 7170655482867226725
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_55
+  - first:
+      213: -2654870491019780908
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_56
+  - first:
+      213: 8453294585727580387
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_57
+  - first:
+      213: 2835173148954549160
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_58
+  - first:
+      213: -8756184175391250001
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_59
+  - first:
+      213: 4870421394350609149
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_60
+  - first:
+      213: -5157254656722714258
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_61
+  - first:
+      213: 294378154121575891
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_62
+  - first:
+      213: 7238735678811751235
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_63
+  - first:
+      213: 624993241454963657
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_64
+  - first:
+      213: -7004214095486346440
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_65
+  - first:
+      213: 3875690028338982494
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_66
+  - first:
+      213: -1867914051200869772
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_67
+  - first:
+      213: -7185154421436744496
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_68
+  - first:
+      213: 8437945209035077689
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_69
+  - first:
+      213: -7367389736009532915
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_70
+  - first:
+      213: 4955531379769815711
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_71
+  - first:
+      213: -5066315775015576052
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_72
+  - first:
+      213: -6795138383994121546
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_73
+  - first:
+      213: -593699251396957111
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_74
+  - first:
+      213: 4105198988777147036
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_75
+  - first:
+      213: 3727451075688932042
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_76
+  - first:
+      213: -542193414806959381
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_77
+  - first:
+      213: 6999382430496358395
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_78
+  - first:
+      213: -1255169301206247431
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_79
+  - first:
+      213: 7592244689736656638
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_80
+  - first:
+      213: 5520806008603142776
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_81
+  - first:
+      213: -6386797087727595481
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_82
+  - first:
+      213: 6916054888454795470
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_83
+  - first:
+      213: -669178134199839067
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_84
+  - first:
+      213: 5149472593363576222
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_85
+  - first:
+      213: 3521683223040343920
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_86
+  - first:
+      213: 561629432608639675
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_87
+  - first:
+      213: -4987985618638262288
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_88
+  - first:
+      213: -3546166869529391952
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_89
+  - first:
+      213: -3905302532142761852
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_90
+  - first:
+      213: -7665815060341566441
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_91
+  - first:
+      213: -6797944887073737287
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_92
+  - first:
+      213: -4841248193894383482
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_93
+  - first:
+      213: 8719632507267404900
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_94
+  - first:
+      213: 6743472934251493052
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_95
+  - first:
+      213: 1746096211358691931
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_96
+  - first:
+      213: 8448886657456245671
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_97
+  - first:
+      213: -7450002660382839599
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_98
+  - first:
+      213: 8890539644529065199
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_99
+  - first:
+      213: -8010825447374933956
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_100
+  - first:
+      213: -3456227936925802572
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_101
+  - first:
+      213: 892947883408423602
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_102
+  - first:
+      213: 4080566023427678160
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_103
+  - first:
+      213: -7038841899738962902
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_104
+  - first:
+      213: -5042506688765991298
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_105
+  - first:
+      213: -3133005763095900748
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_106
+  - first:
+      213: -5403956446214111189
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_107
+  - first:
+      213: 7929754578923813422
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_108
+  - first:
+      213: -7677297460426065170
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_109
+  - first:
+      213: 6196740399980219981
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_110
+  - first:
+      213: 2662894405843863006
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_111
+  - first:
+      213: 3262550375331226410
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_112
+  - first:
+      213: -8827416414761682134
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_113
+  - first:
+      213: 748535314192845076
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_114
+  - first:
+      213: 2237399235568963558
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_115
+  - first:
+      213: 1564595992469479546
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_116
+  - first:
+      213: -7565571748324456225
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_117
+  - first:
+      213: -4607470454248524646
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_118
+  - first:
+      213: -769250824261787851
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_119
+  - first:
+      213: 7271770823150559911
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_120
+  - first:
+      213: -2641856974828312115
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_121
+  - first:
+      213: 7088044342372768910
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_122
+  - first:
+      213: -3854908393273808604
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_123
+  - first:
+      213: 4484322256433337974
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_124
+  - first:
+      213: -2925733440210922863
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_125
+  - first:
+      213: -563300972469882224
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_126
+  - first:
+      213: 3869319562970571086
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_127
+  - first:
+      213: 7732520647709585291
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_128
+  - first:
+      213: 4714282996956312248
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_129
+  - first:
+      213: -628283053174477835
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_130
+  - first:
+      213: -4007097354615487882
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_131
+  - first:
+      213: 5141144777876433153
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_132
+  - first:
+      213: -7532773830901492743
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_133
+  - first:
+      213: -3828419333690435285
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_134
+  - first:
+      213: 8086595726372175131
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_135
+  - first:
+      213: -3060104827314561570
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_136
+  - first:
+      213: 581109221993461522
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_137
+  - first:
+      213: -8037920334120748535
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_138
+  - first:
+      213: 5260509624958534043
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_139
+  - first:
+      213: -5748277862696513946
+    second: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_140
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 391
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11eb65545b9c2df0800000000000000
+      internalID: -203617096625823457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 373
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32dbc0ffdf13d3b20800000000000000
+      internalID: 3115701484185763107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 373
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bc2b854b9975ba0800000000000000
+      internalID: -6100238170388772020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 391
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93bb61ba83c18730800000000000000
+      internalID: 3999692944531239835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 373
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7edc559a1e84380800000000000000
+      internalID: -8986684939012544562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 373
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ca54559f0dbb0e0800000000000000
+      internalID: -2252977419272737757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 373
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08c13a9a830b6830800000000000000
+      internalID: 4065346982459328526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 391
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e64b53fe379bbfa0800000000000000
+      internalID: -5783862999800658199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_8
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 373
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47144308c0374b560800000000000000
+      internalID: 7328608991166349684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_9
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 373
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da898e356cacaf80800000000000000
+      internalID: -8093904879450748199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_10
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 391
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac65d348ddaff9140800000000000000
+      internalID: 4728773963075638986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_11
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 373
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2658dc7420212d230800000000000000
+      internalID: 3662009248009520482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_12
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 373
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e02b7ebc8efce00800000000000000
+      internalID: 1067327599173307971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 322
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5baec36ae413c78c0800000000000000
+      internalID: -4000268155145622859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 322
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d126b2cb9425c90800000000000000
+      internalID: -7182597383171990195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_15
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 334
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5379d9bb2b0bedeb0800000000000000
+      internalID: -4693119479975143627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 334
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c746017b70d91e760800000000000000
+      internalID: 7485436712128111740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_17
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 334
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84b6c5f00083c010800000000000000
+      internalID: 1207949866677220490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_18
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 334
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43de9d33a21fefb30800000000000000
+      internalID: 4323157855883095348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_19
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 322
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89976379f89abc940800000000000000
+      internalID: 5317530219223349656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_20
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 322
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8af2d4ba06149520800000000000000
+      internalID: 2707813511195720333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_21
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 339
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3568992a306cfbcf0800000000000000
+      internalID: -234250936684804525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_22
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 338
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6af203d97976b70800000000000000
+      internalID: 8892242690640422621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_23
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 337
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b687338568b3f00800000000000000
+      internalID: 1097618647573621603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_24
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 337
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fbfab90dfbe0310800000000000000
+      internalID: 1373245839080668950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_25
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 335
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67372dd396e856fd0800000000000000
+      internalID: -2349315047943933066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_26
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 335
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a590fdf88bc8df00800000000000000
+      internalID: 1141886294774814120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_27
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 280
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762e42f29aa84e7c0800000000000000
+      internalID: -4042954106226810265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_28
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 280
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af00317bf91bc2d0800000000000000
+      internalID: -3257481337745961055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_29
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf09df38005a9800800000000000000
+      internalID: 619895895078014906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_30
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a99b36e0b83612d0800000000000000
+      internalID: -3308394543828985439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_31
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda3cf39423958540800000000000000
+      internalID: 5009571945830431454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_32
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 291
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333cee860a59ac710800000000000000
+      internalID: 1714347124355679027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_33
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 280
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980a4c2d860cbb2d0800000000000000
+      internalID: -3261801948654559095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_34
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 281
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdf349fdadd81890800000000000000
+      internalID: -7486990641222386179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_35
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 282
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d364fc599c20e3a0800000000000000
+      internalID: -6638256813542972455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_36
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 275
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563e001d584a4ada0800000000000000
+      internalID: -5934437514323369115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_37
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 280
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0dd784a5f5744b0800000000000000
+      internalID: -5456287582168166171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_38
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 275
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d27f8f848fcbc30800000000000000
+      internalID: 4376645930195561755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_39
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 280
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558a810bee820d050800000000000000
+      internalID: 5823199323811784789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_40
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 275
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1ac43abbfb2da40800000000000000
+      internalID: 5391582516535402948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_41
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 277
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d5c9ecb22fdb5d0800000000000000
+      internalID: -3045011503068717779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_42
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 237
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4fb70ac06be25f0800000000000000
+      internalID: -779485520140176152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_43
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 237
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655f1ff3a6940e660800000000000000
+      internalID: 7413005707340019030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_44
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 256
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf12084a3daf18d40800000000000000
+      internalID: 5585020799821029884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_45
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 241
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e1f5e65cffd2420800000000000000
+      internalID: 2607020982742752907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_46
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 256
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66e3fc6f924d9f50800000000000000
+      internalID: 6889736257441883756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_47
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 241
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0eb75e8bb1e410e0800000000000000
+      internalID: -2299965314016231921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_48
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 256
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b262c758de743b30800000000000000
+      internalID: 4266174214677095094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_49
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 241
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882c56985af36d600800000000000000
+      internalID: 492651189450949256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_50
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 256
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22267a030bde20860800000000000000
+      internalID: 7494814070884229666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_51
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 241
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d212f3f98266600800000000000000
+      internalID: 461100676276104520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_52
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 256
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf5b86ace2e12870800000000000000
+      internalID: 8656449464817115065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_53
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 241
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348bac2137fa3d5f0800000000000000
+      internalID: -733049405559883709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_54
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 256
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e16ac333e047c00800000000000000
+      internalID: 897357838977212019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_55
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 241
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568120f7b29438360800000000000000
+      internalID: 7170655482867226725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_56
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 237
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc5912ca51082bd0800000000000000
+      internalID: -2654870491019780908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_57
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 237
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8760463a2205570800000000000000
+      internalID: 8453294585727580387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_58
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 244
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab592425fe885720800000000000000
+      internalID: 2835173148954549160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_59
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 244
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa968ed72e8cb7680800000000000000
+      internalID: -8756184175391250001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_60
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 244
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df21bbc1476379340800000000000000
+      internalID: 4870421394350609149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_61
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 244
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6140d9c630cd68b0800000000000000
+      internalID: -5157254656722714258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_62
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 244
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd3d0a1f57d51400800000000000000
+      internalID: 294378154121575891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_63
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 244
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34345865fb7257460800000000000000
+      internalID: 7238735678811751235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_64
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 244
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb61ffaa0c6ca800800000000000000
+      internalID: 624993241454963657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_65
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 244
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b90cbd3680cce90800000000000000
+      internalID: -7004214095486346440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_66
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 194
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e2ba6eb8739c530800000000000000
+      internalID: 3875690028338982494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_67
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 194
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a163b2116d316e0800000000000000
+      internalID: -1867914051200869772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_68
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 207
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc7fed4f14394c90800000000000000
+      internalID: -7185154421436744496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_69
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 207
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938beb2267a991570800000000000000
+      internalID: 8437945209035077689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_70
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 194
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0afa47b116c1c990800000000000000
+      internalID: -7367389736009532915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_71
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 194
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f923b7cc88595c440800000000000000
+      internalID: 4955531379769815711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_72
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 194
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e1d3625a4d0b9b0800000000000000
+      internalID: -5066315775015576052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_73
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 194
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2986654a1d2b1a0800000000000000
+      internalID: -6795138383994121546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_74
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 194
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ca1192da1c2c7f0800000000000000
+      internalID: -593699251396957111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_75
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 198
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9aca52eab898f830800000000000000
+      internalID: 4105198988777147036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_76
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 202
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2261421019ab330800000000000000
+      internalID: 3727451075688932042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_77
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 194
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea00ee36fdb978f0800000000000000
+      internalID: -542193414806959381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_78
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 194
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff78d87c3dc22160800000000000000
+      internalID: 6999382430496358395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_79
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 194
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f750a4bb2eb49ee0800000000000000
+      internalID: -1255169301206247431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_80
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 194
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef66993e1521d5960800000000000000
+      internalID: 7592244689736656638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_81
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 194
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ae1a870d7dd9c40800000000000000
+      internalID: 5520806008603142776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_82
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 152
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7205f7d23e98d57a0800000000000000
+      internalID: -6386797087727595481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_83
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 152
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0b3793743caff50800000000000000
+      internalID: 6916054888454795470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_84
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 168
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a65f8b480a96b6f0800000000000000
+      internalID: -669178134199839067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_85
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 165
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95ab046a0a967740800000000000000
+      internalID: 5149472593363576222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_86
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 166
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fb5c09b388fd030800000000000000
+      internalID: 3521683223040343920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_87
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 168
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbaca0a4efe4bc700800000000000000
+      internalID: 561629432608639675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_88
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 163
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff2f40e18d17cab0800000000000000
+      internalID: -4987985618638262288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_89
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 152
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc0173450c79cec0800000000000000
+      internalID: -3546166869529391952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_90
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 152
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4887237c9049dc9c0800000000000000
+      internalID: -3905302532142761852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_91
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 168
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714508e51dd8d9590800000000000000
+      internalID: -7665815060341566441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_92
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 162
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5794b6429d8a1a0800000000000000
+      internalID: -6797944887073737287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_93
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 164
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6808c6dea6e60dcb0800000000000000
+      internalID: -4841248193894383482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_94
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 166
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4645f97119b520970800000000000000
+      internalID: 8719632507267404900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_95
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 110
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6758eb7e0a59d50800000000000000
+      internalID: 6743472934251493052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_96
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 110
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52b0b5c0416b3810800000000000000
+      internalID: 1746096211358691931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_97
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 126
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab873d96a9704570800000000000000
+      internalID: 8448886657456245671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_98
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 126
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc6a2c5d064c9890800000000000000
+      internalID: -7450002660382839599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_99
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 126
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecbeadd3ba816b70800000000000000
+      internalID: 8890539644529065199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_100
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 126
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30be83e2b4d3d090800000000000000
+      internalID: -8010825447374933956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_101
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 126
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf91c4d0030900d0800000000000000
+      internalID: -3456227936925802572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 126
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bafe717e53646c00800000000000000
+      internalID: 892947883408423602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_103
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 126
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df5fe4bd2511a830800000000000000
+      internalID: 4080566023427678160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_104
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 126
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a246ce7e592015e90800000000000000
+      internalID: -7038841899738962902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_105
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 110
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76629602ea650ab0800000000000000
+      internalID: -5042506688765991298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_106
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 110
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bdca6b9bd35584d0800000000000000
+      internalID: -3133005763095900748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_107
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20c9b95e3a4105b0800000000000000
+      internalID: -5403956446214111189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_108
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2af7c0a6c52c0e60800000000000000
+      internalID: 7929754578923813422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_109
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 121
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeabb44c2a2c47590800000000000000
+      internalID: -7677297460426065170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_110
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 123
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e0222ef8e3ff550800000000000000
+      internalID: 6196740399980219981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_111
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 124
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5c2be7a5084f420800000000000000
+      internalID: 2662894405843863006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_112
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 123
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a236f67d748e64d20800000000000000
+      internalID: 3262550375331226410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_113
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 116
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b7da95a87be7580800000000000000
+      internalID: -8827416414761682134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_114
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 116
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419cc4007e4536a00800000000000000
+      internalID: 748535314192845076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_115
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 116
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef81d020c6dc0f10800000000000000
+      internalID: 2237399235568963558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_116
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 116
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70a42cf3cf86b510800000000000000
+      internalID: 1564595992469479546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_117
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 116
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8c36a3490b10790800000000000000
+      internalID: -7565571748324456225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_118
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 116
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94b865880afe00c0800000000000000
+      internalID: -4607470454248524646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_119
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 116
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f13b473721355f0800000000000000
+      internalID: -769250824261787851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_120
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 69
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a260f149058ae460800000000000000
+      internalID: 7271770823150559911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_121
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 69
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc968fb141d365bd0800000000000000
+      internalID: -2641856974828312115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_122
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 83
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c985b76cacd5260800000000000000
+      internalID: 7088044342372768910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_123
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 83
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4292e319d3d908ac0800000000000000
+      internalID: -3854908393273808604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_124
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 83
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676561155538b3e30800000000000000
+      internalID: 4484322256433337974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_125
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 83
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1921fb4ffe4b567d0800000000000000
+      internalID: -2925733440210922863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_126
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 69
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092fc4200c0ce28f0800000000000000
+      internalID: -563300972469882224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_127
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 69
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41a45954a592b530800000000000000
+      internalID: 3869319562970571086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_128
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 80
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f6a197f8e6f4b60800000000000000
+      internalID: 7732520647709585291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_129
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 80
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2be3c886f7c6140800000000000000
+      internalID: 4714282996956312248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_130
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 80
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb232554e3e747f0800000000000000
+      internalID: -628283053174477835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_131
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 25
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6728cbdbf2ee368c0800000000000000
+      internalID: -4007097354615487882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_132
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 25
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109ed20cfe3095740800000000000000
+      internalID: 5141144777876433153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_133
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 34
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f312c37c16367790800000000000000
+      internalID: -7532773830901492743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_134
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 34
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29d42c56e8bedac0800000000000000
+      internalID: -3828419333690435285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_135
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 34
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1dfa90f7fb593070800000000000000
+      internalID: 8086595726372175131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_136
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 25
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd15786fd25885d0800000000000000
+      internalID: -3060104827314561570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_137
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 25
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217bf9032c3801800800000000000000
+      internalID: 581109221993461522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_138
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 35
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90af7d7fa02937090800000000000000
+      internalID: -8037920334120748535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_139
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 35
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b914d2de1a5110940800000000000000
+      internalID: 5260509624958534043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Xtreme 2 Weapons SNES-Style_140
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 35
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e8bb35db30a30b0800000000000000
+      internalID: -5748277862696513946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
