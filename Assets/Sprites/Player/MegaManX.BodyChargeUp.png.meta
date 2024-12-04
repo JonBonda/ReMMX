@@ -1,0 +1,1740 @@
+fileFormatVersion: 2
+guid: 5b5fb0d8a15207a4e842ac38e7d10060
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5964472303046756739
+    second: MegaManX.BodyChargeUp_0
+  - first:
+      213: 6492312397266665777
+    second: MegaManX.BodyChargeUp_1
+  - first:
+      213: -5532861360564387232
+    second: MegaManX.BodyChargeUp_2
+  - first:
+      213: 1915616849481661417
+    second: MegaManX.BodyChargeUp_3
+  - first:
+      213: 8598928075916057487
+    second: MegaManX.BodyChargeUp_4
+  - first:
+      213: -4413780474328460778
+    second: MegaManX.BodyChargeUp_5
+  - first:
+      213: -1761046651903166761
+    second: MegaManX.BodyChargeUp_6
+  - first:
+      213: 4243558978851722990
+    second: MegaManX.BodyChargeUp_7
+  - first:
+      213: -8665258923919355626
+    second: MegaManX.BodyChargeUp_8
+  - first:
+      213: -5163350203649753530
+    second: MegaManX.BodyChargeUp_9
+  - first:
+      213: -2592490777100610970
+    second: MegaManX.BodyChargeUp_10
+  - first:
+      213: 2122298187238208025
+    second: MegaManX.BodyChargeUp_11
+  - first:
+      213: -8206991789038584514
+    second: MegaManX.BodyChargeUp_12
+  - first:
+      213: -7381165837887002556
+    second: MegaManX.BodyChargeUp_13
+  - first:
+      213: 4220772305799703695
+    second: MegaManX.BodyChargeUp_14
+  - first:
+      213: 7406394764047982910
+    second: MegaManX.BodyChargeUp_15
+  - first:
+      213: -3732341282180034350
+    second: MegaManX.BodyChargeUp_16
+  - first:
+      213: -2328577250705190674
+    second: MegaManX.BodyChargeUp_17
+  - first:
+      213: -3124385119470415907
+    second: MegaManX.BodyChargeUp_18
+  - first:
+      213: -6126691376288407992
+    second: MegaManX.BodyChargeUp_19
+  - first:
+      213: -3684544425743476804
+    second: MegaManX.BodyChargeUp_20
+  - first:
+      213: 5880169844776506433
+    second: MegaManX.BodyChargeUp_21
+  - first:
+      213: 2105328935794085934
+    second: MegaManX.BodyChargeUp_22
+  - first:
+      213: 8610593475909613753
+    second: MegaManX.BodyChargeUp_23
+  - first:
+      213: 4212593640760678133
+    second: MegaManX.BodyChargeUp_24
+  - first:
+      213: -8995797931149565641
+    second: MegaManX.BodyChargeUp_25
+  - first:
+      213: 2737052169423598779
+    second: MegaManX.BodyChargeUp_26
+  - first:
+      213: 3310709432425144786
+    second: MegaManX.BodyChargeUp_27
+  - first:
+      213: -9074398798234916389
+    second: MegaManX.BodyChargeUp_28
+  - first:
+      213: 6729846727970073460
+    second: MegaManX.BodyChargeUp_29
+  - first:
+      213: -669585697643200861
+    second: MegaManX.BodyChargeUp_30
+  - first:
+      213: 6721475373583564909
+    second: MegaManX.BodyChargeUp_31
+  - first:
+      213: -90366556608518853
+    second: MegaManX.BodyChargeUp_32
+  - first:
+      213: 2673842531142368305
+    second: MegaManX.BodyChargeUp_33
+  - first:
+      213: -2424050232365523786
+    second: MegaManX.BodyChargeUp_34
+  - first:
+      213: -8854644039116480399
+    second: MegaManX.BodyChargeUp_35
+  - first:
+      213: 3379366806039532116
+    second: MegaManX.BodyChargeUp_36
+  - first:
+      213: 8342066711418480897
+    second: MegaManX.BodyChargeUp_37
+  - first:
+      213: -5210413065615892194
+    second: MegaManX.BodyChargeUp_38
+  - first:
+      213: 5869114370666977122
+    second: MegaManX.BodyChargeUp_39
+  - first:
+      213: -1476882353319354274
+    second: MegaManX.BodyChargeUp_40
+  - first:
+      213: 8994204548873107742
+    second: MegaManX.BodyChargeUp_41
+  - first:
+      213: -2867231206033072723
+    second: MegaManX.BodyChargeUp_42
+  - first:
+      213: 169878352807240759
+    second: MegaManX.BodyChargeUp_43
+  - first:
+      213: -7366647536953256312
+    second: MegaManX.BodyChargeUp_44
+  - first:
+      213: 600269979348861029
+    second: MegaManX.BodyChargeUp_45
+  - first:
+      213: -4259426798762814074
+    second: MegaManX.BodyChargeUp_46
+  - first:
+      213: 8153828134606872643
+    second: MegaManX.BodyChargeUp_47
+  - first:
+      213: 7114599187399935070
+    second: MegaManX.BodyChargeUp_48
+  - first:
+      213: -2149997889671517566
+    second: MegaManX.BodyChargeUp_49
+  - first:
+      213: -5864170240771140488
+    second: MegaManX.BodyChargeUp_50
+  - first:
+      213: -3759138342154928438
+    second: MegaManX.BodyChargeUp_51
+  - first:
+      213: 1286158743734296916
+    second: MegaManX.BodyChargeUp_52
+  - first:
+      213: 7962801610872631624
+    second: MegaManX.BodyChargeUp_53
+  - first:
+      213: 7983443358918220703
+    second: MegaManX.BodyChargeUp_54
+  - first:
+      213: 5840877995597213056
+    second: MegaManX.BodyChargeUp_55
+  - first:
+      213: 7761227843386361949
+    second: MegaManX.BodyChargeUp_56
+  - first:
+      213: -1615858747245085833
+    second: MegaManX.BodyChargeUp_57
+  - first:
+      213: -7516843412321342484
+    second: MegaManX.BodyChargeUp_58
+  - first:
+      213: 4880176807570939582
+    second: MegaManX.BodyChargeUp_59
+  - first:
+      213: -2814069393287792923
+    second: MegaManX.BodyChargeUp_60
+  - first:
+      213: -8209342981756912750
+    second: MegaManX.BodyChargeUp_61
+  - first:
+      213: -9026441612704978910
+    second: MegaManX.BodyChargeUp_62
+  - first:
+      213: -936702838305456933
+    second: MegaManX.BodyChargeUp_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 51
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76fd30aa00f93da0800000000000000
+      internalID: -5964472303046756739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 99
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131c1f14ab3591a50800000000000000
+      internalID: 6492312397266665777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_2
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 94
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062431c28e35733b0800000000000000
+      internalID: -5532861360564387232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_3
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 91
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb7b1f0063a59a10800000000000000
+      internalID: 1915616849481661417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_4
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 102
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b1c16a687855770800000000000000
+      internalID: 8598928075916057487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_5
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 98
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612d8173b0a1fb2c0800000000000000
+      internalID: -4413780474328460778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_6
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 84
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6bb6886618f87e0800000000000000
+      internalID: -1761046651903166761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_7
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 85
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee650ed686624ea30800000000000000
+      internalID: 4243558978851722990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_8
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 87
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611d0015be0deb780800000000000000
+      internalID: -8665258923919355626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_9
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 86
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ef38ca8581858b0800000000000000
+      internalID: -5163350203649753530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_10
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6621173bf5f950cd0800000000000000
+      internalID: -2592490777100610970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_11
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 87
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912f9c5f4fae37d10800000000000000
+      internalID: 2122298187238208025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_12
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 75
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3dbecb4378ea1e80800000000000000
+      internalID: -8206991789038584514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_13
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 83
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4482f7c07c4d09990800000000000000
+      internalID: -7381165837887002556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_14
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 74
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c6ffcac02339a30800000000000000
+      internalID: 4220772305799703695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_15
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31a4611cccc8c660800000000000000
+      internalID: 7406394764047982910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_16
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 62
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0122fe06f043cc0800000000000000
+      internalID: -3732341282180034350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_17
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 69
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee059abe35b3fafd0800000000000000
+      internalID: -2328577250705190674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_18
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 74
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf037c9944f3a4d0800000000000000
+      internalID: -3124385119470415907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_19
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 74
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e51e367ae99faa0800000000000000
+      internalID: -6126691376288407992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_20
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 67
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb71a68cd5edddcc0800000000000000
+      internalID: -3684544425743476804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_21
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 69
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1441ed0c15f8a9150800000000000000
+      internalID: 5880169844776506433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_22
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 73
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e209b593381a73d10800000000000000
+      internalID: 2105328935794085934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_23
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 78
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b873ec3529fe7770800000000000000
+      internalID: 8610593475909613753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_24
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 43
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f61c94d893267a30800000000000000
+      internalID: 4212593640760678133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_25
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 66
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731e2a28171882380800000000000000
+      internalID: -8995797931149565641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_26
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 59
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4b4325276fbf520800000000000000
+      internalID: 2737052169423598779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_27
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 59
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d16c3a10b002fd20800000000000000
+      internalID: 3310709432425144786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_28
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 54
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9e9f80f52411280800000000000000
+      internalID: -9074398798234916389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_29
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 60
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b2b7d51f7356d50800000000000000
+      internalID: 6729846727970073460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_30
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 51
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae7b490b5725b6f0800000000000000
+      internalID: -669585697643200861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_31
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 63
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d600cf88d3a774d50800000000000000
+      internalID: 6721475373583564909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_32
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 68
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3526c57814febef0800000000000000
+      internalID: -90366556608518853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_33
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 70
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c721e8d956b1520800000000000000
+      internalID: 2673842531142368305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_34
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 65
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc5626282b0c5ed0800000000000000
+      internalID: -2424050232365523786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_35
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 58
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170aeeb092cfd1580800000000000000
+      internalID: -8854644039116480399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_36
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 58
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4529bb7943ce5ee20800000000000000
+      internalID: 3379366806039532116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_37
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 47
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109a5b2d979f4c370800000000000000
+      internalID: 8342066711418480897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_38
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 55
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1129ea3ce4e0b7b0800000000000000
+      internalID: -5210413065615892194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_39
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 46
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267deb99c68437150800000000000000
+      internalID: 5869114370666977122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_40
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e506b53135f018be0800000000000000
+      internalID: -1476882353319354274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_41
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 41
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19b8c44265d1dc70800000000000000
+      internalID: 8994204548873107742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_42
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 44
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daddb7bc86c8538d0800000000000000
+      internalID: -2867231206033072723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_43
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 46
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734aa1a36778b5200800000000000000
+      internalID: 169878352807240759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_44
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 46
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8861566681964c990800000000000000
+      internalID: -7366647536953256312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_45
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 50
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5608b68ad56945800800000000000000
+      internalID: 600269979348861029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_46
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 25
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68596f8d4e973e4c0800000000000000
+      internalID: -4259426798762814074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_47
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34024d2dc77382170800000000000000
+      internalID: 8153828134606872643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_48
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 23
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54814424422cb260800000000000000
+      internalID: 7114599187399935070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_49
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a2a4e7f4ca922e0800000000000000
+      internalID: -2149997889671517566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_50
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8745b685c384e9ea0800000000000000
+      internalID: -5864170240771140488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_51
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 34
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acefd46389bd4dbc0800000000000000
+      internalID: -3759138342154928438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_52
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451ab05209a59d110800000000000000
+      internalID: 1286158743734296916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_53
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 27
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841b8f850ed818e60800000000000000
+      internalID: 7962801610872631624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_54
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 42
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b95c4df63eace60800000000000000
+      internalID: 7983443358918220703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_55
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 35
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08da7f73797fe0150800000000000000
+      internalID: 5840877995597213056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_56
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 33
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d584ae15a9b65bb60800000000000000
+      internalID: 7761227843386361949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_57
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 38
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bbf33d7015399e0800000000000000
+      internalID: -1615858747245085833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_58
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 39
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebe9501ebecea790800000000000000
+      internalID: -7516843412321342484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_59
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 22
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe9d5043fed9b340800000000000000
+      internalID: 4880176807570939582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_60
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 19
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e638cfdbca62f8d0800000000000000
+      internalID: -2814069393287792923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_61
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b78059d0e821e80800000000000000
+      internalID: -8209342981756912750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_62
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 22
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2286ae86d23abb280800000000000000
+      internalID: -9026441612704978910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaManX.BodyChargeUp_63
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 28
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdcf3be3bb92003f0800000000000000
+      internalID: -936702838305456933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MegaManX.BodyChargeUp_0: -5964472303046756739
+      MegaManX.BodyChargeUp_1: 6492312397266665777
+      MegaManX.BodyChargeUp_10: -2592490777100610970
+      MegaManX.BodyChargeUp_11: 2122298187238208025
+      MegaManX.BodyChargeUp_12: -8206991789038584514
+      MegaManX.BodyChargeUp_13: -7381165837887002556
+      MegaManX.BodyChargeUp_14: 4220772305799703695
+      MegaManX.BodyChargeUp_15: 7406394764047982910
+      MegaManX.BodyChargeUp_16: -3732341282180034350
+      MegaManX.BodyChargeUp_17: -2328577250705190674
+      MegaManX.BodyChargeUp_18: -3124385119470415907
+      MegaManX.BodyChargeUp_19: -6126691376288407992
+      MegaManX.BodyChargeUp_2: -5532861360564387232
+      MegaManX.BodyChargeUp_20: -3684544425743476804
+      MegaManX.BodyChargeUp_21: 5880169844776506433
+      MegaManX.BodyChargeUp_22: 2105328935794085934
+      MegaManX.BodyChargeUp_23: 8610593475909613753
+      MegaManX.BodyChargeUp_24: 4212593640760678133
+      MegaManX.BodyChargeUp_25: -8995797931149565641
+      MegaManX.BodyChargeUp_26: 2737052169423598779
+      MegaManX.BodyChargeUp_27: 3310709432425144786
+      MegaManX.BodyChargeUp_28: -9074398798234916389
+      MegaManX.BodyChargeUp_29: 6729846727970073460
+      MegaManX.BodyChargeUp_3: 1915616849481661417
+      MegaManX.BodyChargeUp_30: -669585697643200861
+      MegaManX.BodyChargeUp_31: 6721475373583564909
+      MegaManX.BodyChargeUp_32: -90366556608518853
+      MegaManX.BodyChargeUp_33: 2673842531142368305
+      MegaManX.BodyChargeUp_34: -2424050232365523786
+      MegaManX.BodyChargeUp_35: -8854644039116480399
+      MegaManX.BodyChargeUp_36: 3379366806039532116
+      MegaManX.BodyChargeUp_37: 8342066711418480897
+      MegaManX.BodyChargeUp_38: -5210413065615892194
+      MegaManX.BodyChargeUp_39: 5869114370666977122
+      MegaManX.BodyChargeUp_4: 8598928075916057487
+      MegaManX.BodyChargeUp_40: -1476882353319354274
+      MegaManX.BodyChargeUp_41: 8994204548873107742
+      MegaManX.BodyChargeUp_42: -2867231206033072723
+      MegaManX.BodyChargeUp_43: 169878352807240759
+      MegaManX.BodyChargeUp_44: -7366647536953256312
+      MegaManX.BodyChargeUp_45: 600269979348861029
+      MegaManX.BodyChargeUp_46: -4259426798762814074
+      MegaManX.BodyChargeUp_47: 8153828134606872643
+      MegaManX.BodyChargeUp_48: 7114599187399935070
+      MegaManX.BodyChargeUp_49: -2149997889671517566
+      MegaManX.BodyChargeUp_5: -4413780474328460778
+      MegaManX.BodyChargeUp_50: -5864170240771140488
+      MegaManX.BodyChargeUp_51: -3759138342154928438
+      MegaManX.BodyChargeUp_52: 1286158743734296916
+      MegaManX.BodyChargeUp_53: 7962801610872631624
+      MegaManX.BodyChargeUp_54: 7983443358918220703
+      MegaManX.BodyChargeUp_55: 5840877995597213056
+      MegaManX.BodyChargeUp_56: 7761227843386361949
+      MegaManX.BodyChargeUp_57: -1615858747245085833
+      MegaManX.BodyChargeUp_58: -7516843412321342484
+      MegaManX.BodyChargeUp_59: 4880176807570939582
+      MegaManX.BodyChargeUp_6: -1761046651903166761
+      MegaManX.BodyChargeUp_60: -2814069393287792923
+      MegaManX.BodyChargeUp_61: -8209342981756912750
+      MegaManX.BodyChargeUp_62: -9026441612704978910
+      MegaManX.BodyChargeUp_63: -936702838305456933
+      MegaManX.BodyChargeUp_7: 4243558978851722990
+      MegaManX.BodyChargeUp_8: -8665258923919355626
+      MegaManX.BodyChargeUp_9: -5163350203649753530
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

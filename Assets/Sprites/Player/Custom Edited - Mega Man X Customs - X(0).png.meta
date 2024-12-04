@@ -969,7 +969,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_0
+      name: MMX.BeamDown_0
       rect:
         serializedVersion: 2
         x: 51
@@ -990,7 +990,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_1
+      name: MMX.BeamDown_1
       rect:
         serializedVersion: 2
         x: 61
@@ -1011,7 +1011,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_2
+      name: MMX.BeamDown_3
       rect:
         serializedVersion: 2
         x: 124
@@ -1032,7 +1032,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_3
+      name: MMX.BeamDown_4
       rect:
         serializedVersion: 2
         x: 172
@@ -1053,7 +1053,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_4
+      name: MMX.BeamDown_5
       rect:
         serializedVersion: 2
         x: 220
@@ -1074,7 +1074,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_5
+      name: MMX.BeamDown_6
       rect:
         serializedVersion: 2
         x: 272
@@ -1095,7 +1095,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_6
+      name: MMX.BeamDown_7
       rect:
         serializedVersion: 2
         x: 327
@@ -1116,7 +1116,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_7
+      name: MMX.BeamDown_8
       rect:
         serializedVersion: 2
         x: 369
@@ -1137,7 +1137,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_8
+      name: MMX.BeamDown_9
       rect:
         serializedVersion: 2
         x: 406
@@ -1158,7 +1158,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_9
+      name: MMX.BeamDown_10
       rect:
         serializedVersion: 2
         x: 440
@@ -1179,7 +1179,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_10
+      name: MMX.BeamDown_11
       rect:
         serializedVersion: 2
         x: 474
@@ -1200,7 +1200,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_11
+      name: MMX.BeamDown_12
       rect:
         serializedVersion: 2
         x: 509
@@ -1221,7 +1221,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_12
+      name: MMX.BeamDown_13
       rect:
         serializedVersion: 2
         x: 529
@@ -1263,7 +1263,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_14
+      name: MMX.BeamDown_14
       rect:
         serializedVersion: 2
         x: 611
@@ -1305,7 +1305,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_16
+      name: MMX.BeamDown_15
       rect:
         serializedVersion: 2
         x: 673
@@ -1326,7 +1326,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_17
+      name: MMX.BeamDown_2
       rect:
         serializedVersion: 2
         x: 83
@@ -1368,7 +1368,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_0
+      name: MMX.Idle_0
       rect:
         serializedVersion: 2
         x: 288
@@ -1389,7 +1389,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_1
+      name: MMX.Idle_1
       rect:
         serializedVersion: 2
         x: 320
@@ -1410,7 +1410,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_2
+      name: MMX.Idle_2
       rect:
         serializedVersion: 2
         x: 352
@@ -1431,7 +1431,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_3
+      name: MMX.Idle_3
       rect:
         serializedVersion: 2
         x: 384
@@ -1452,7 +1452,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_4
+      name: MMX.Idle_4
       rect:
         serializedVersion: 2
         x: 416
@@ -1473,7 +1473,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_24
+      name: MMX.IdleLow_0
       rect:
         serializedVersion: 2
         x: 288
@@ -1494,7 +1494,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_25
+      name: MMX.IdleLow_1
       rect:
         serializedVersion: 2
         x: 320
@@ -1515,7 +1515,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_26
+      name: MMX.IdleLow_2
       rect:
         serializedVersion: 2
         x: 352
@@ -1536,7 +1536,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_27
+      name: MMX.IdleLow_3
       rect:
         serializedVersion: 2
         x: 384
@@ -1557,7 +1557,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_28
+      name: MMX.IdleLow_4
       rect:
         serializedVersion: 2
         x: 416
@@ -1578,7 +1578,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_29
+      name: MMX.Run_0
       rect:
         serializedVersion: 2
         x: 143
@@ -1599,7 +1599,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_30
+      name: MMX.Run_1
       rect:
         serializedVersion: 2
         x: 190
@@ -1620,7 +1620,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_31
+      name: MMX.Run_2
       rect:
         serializedVersion: 2
         x: 228
@@ -1641,7 +1641,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_32
+      name: MMX.Run_3
       rect:
         serializedVersion: 2
         x: 266
@@ -1662,7 +1662,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_33
+      name: MMX.Run_4
       rect:
         serializedVersion: 2
         x: 306
@@ -1683,7 +1683,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_34
+      name: MMX.Run_5
       rect:
         serializedVersion: 2
         x: 353
@@ -1704,7 +1704,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_35
+      name: MMX.Run_6
       rect:
         serializedVersion: 2
         x: 399
@@ -1725,7 +1725,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_36
+      name: MMX.Run_7
       rect:
         serializedVersion: 2
         x: 439
@@ -1746,7 +1746,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_37
+      name: MMX.Run_8
       rect:
         serializedVersion: 2
         x: 478
@@ -1767,7 +1767,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_38
+      name: MMX.Run_9
       rect:
         serializedVersion: 2
         x: 521
@@ -1788,7 +1788,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_39
+      name: MMX.Run_10
       rect:
         serializedVersion: 2
         x: 565
@@ -1809,7 +1809,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_40
+      name: MMX.RunShoot_0
       rect:
         serializedVersion: 2
         x: 141
@@ -1830,7 +1830,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_41
+      name: MMX.RunShoot_1
       rect:
         serializedVersion: 2
         x: 190
@@ -1851,7 +1851,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_42
+      name: MMX.RunShoot_2
       rect:
         serializedVersion: 2
         x: 230
@@ -1872,7 +1872,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_43
+      name: MMX.RunShoot_3
       rect:
         serializedVersion: 2
         x: 269
@@ -1893,7 +1893,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_44
+      name: MMX.RunShoot_4
       rect:
         serializedVersion: 2
         x: 312
@@ -1914,7 +1914,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_45
+      name: MMX.RunShoot_5
       rect:
         serializedVersion: 2
         x: 361
@@ -1935,7 +1935,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_46
+      name: MMX.RunShoot_6
       rect:
         serializedVersion: 2
         x: 409
@@ -1956,7 +1956,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_47
+      name: MMX.RunShoot_7
       rect:
         serializedVersion: 2
         x: 451
@@ -1977,7 +1977,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_48
+      name: MMX.RunShoot_8
       rect:
         serializedVersion: 2
         x: 492
@@ -1998,7 +1998,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_49
+      name: MMX.RunShoot_9
       rect:
         serializedVersion: 2
         x: 537
@@ -2019,7 +2019,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_50
+      name: MMX.RunShoot_10
       rect:
         serializedVersion: 2
         x: 582
@@ -2040,7 +2040,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_51
+      name: MMX.IdleShoot_0
       rect:
         serializedVersion: 2
         x: 320
@@ -2061,7 +2061,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_52
+      name: MMX.IdleShoot_1
       rect:
         serializedVersion: 2
         x: 354
@@ -2082,7 +2082,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_53
+      name: MMX.IdleShoot_2
       rect:
         serializedVersion: 2
         x: 387
@@ -2103,12 +2103,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_54
+      name: MMX.IdleShootCharged_4
       rect:
         serializedVersion: 2
-        x: 249
+        x: 438
         y: 1752
-        width: 31
+        width: 33
         height: 40
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -2124,13 +2124,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_55
+      name: MMX.IdleShootCharged_0
       rect:
         serializedVersion: 2
         x: 282
         y: 1752
         width: 33
-        height: 40
+        height: 41
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2145,13 +2145,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_56
+      name: MMX.IdleShootCharged_1
       rect:
         serializedVersion: 2
         x: 321
         y: 1752
         width: 37
-        height: 45
+        height: 47
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2166,13 +2166,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_57
+      name: MMX.IdleShootCharged_2
       rect:
         serializedVersion: 2
         x: 359
         y: 1752
         width: 38
-        height: 45
+        height: 46
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2187,13 +2187,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_58
+      name: MMX.IdleShootCharged_3
       rect:
         serializedVersion: 2
         x: 401
         y: 1752
-        width: 69
-        height: 45
+        width: 35
+        height: 47
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2208,7 +2208,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_59
+      name: MMX.Dash_2Loop0
       rect:
         serializedVersion: 2
         x: 275
@@ -2229,7 +2229,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_60
+      name: MMX.Dash_3Loop1
       rect:
         serializedVersion: 2
         x: 301
@@ -2250,7 +2250,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_61
+      name: MMX.Dash_1Loop2
       rect:
         serializedVersion: 2
         x: 342
@@ -2271,7 +2271,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_62
+      name: MMX.Dash_4End
       rect:
         serializedVersion: 2
         x: 367
@@ -2292,7 +2292,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_63
+      name: MMX.Dash_0
       rect:
         serializedVersion: 2
         x: 400
@@ -2313,7 +2313,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_64
+      name: MMX.DashShoot_2
       rect:
         serializedVersion: 2
         x: 271
@@ -2334,7 +2334,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_65
+      name: MMX.DashShoot_3
       rect:
         serializedVersion: 2
         x: 304
@@ -2355,12 +2355,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_66
+      name: MMX.DashShoot_1
       rect:
         serializedVersion: 2
         x: 351
         y: 1649
-        width: 65
+        width: 32
         height: 38
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -2376,12 +2376,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_67
+      name: MMX.DashShoot_0
       rect:
         serializedVersion: 2
-        x: 417
+        x: 382
         y: 1650
-        width: 37
+        width: 36
         height: 36
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -2397,7 +2397,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_68
+      name: MMX.Jump_5Land1
       rect:
         serializedVersion: 2
         x: 272
@@ -2418,7 +2418,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_69
+      name: MMX.Jump_1Leap
       rect:
         serializedVersion: 2
         x: 308
@@ -2439,7 +2439,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_70
+      name: MMX.Jump_2Top1
       rect:
         serializedVersion: 2
         x: 341
@@ -2460,7 +2460,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_71
+      name: MMX.Jump_3Fall1
       rect:
         serializedVersion: 2
         x: 368
@@ -2481,7 +2481,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_72
+      name: MMX.Jump_4Fall2
       rect:
         serializedVersion: 2
         x: 403
@@ -2502,7 +2502,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_73
+      name: MMX.Jump_6Land2
       rect:
         serializedVersion: 2
         x: 433
@@ -2523,7 +2523,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_74
+      name: MMX.Jump_0Land3
       rect:
         serializedVersion: 2
         x: 460
@@ -2544,7 +2544,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_75
+      name: MMX.JumpShoot_5Land1
       rect:
         serializedVersion: 2
         x: 267
@@ -2565,7 +2565,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_76
+      name: MMX.JumpShoot_1Leap
       rect:
         serializedVersion: 2
         x: 304
@@ -2586,7 +2586,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_77
+      name: MMX.JumpShoot_2Top
       rect:
         serializedVersion: 2
         x: 339
@@ -2607,7 +2607,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_78
+      name: MMX.JumpShoot_3Fall1
       rect:
         serializedVersion: 2
         x: 366
@@ -2628,7 +2628,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_79
+      name: MMX.JumpShoot_4Fall2
       rect:
         serializedVersion: 2
         x: 402
@@ -2649,7 +2649,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_80
+      name: MMX.JumpShoot_6Land2
       rect:
         serializedVersion: 2
         x: 437
@@ -2670,7 +2670,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_81
+      name: MMX.JumpShoot_0Land3
       rect:
         serializedVersion: 2
         x: 467
@@ -2691,7 +2691,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_82
+      name: MMX.Jump_2Top2
       rect:
         serializedVersion: 2
         x: 322
@@ -2712,7 +2712,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_83
+      name: MMX.Wall_0LandingSliding
       rect:
         serializedVersion: 2
         x: 356
@@ -2733,7 +2733,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_84
+      name: MMX.Wall_1Landed
       rect:
         serializedVersion: 2
         x: 387
@@ -2754,7 +2754,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_85
+      name: MMX.JumpShoot_2Top1
       rect:
         serializedVersion: 2
         x: 322
@@ -2775,7 +2775,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_86
+      name: MMX.WallShoot_0LandingSliding
       rect:
         serializedVersion: 2
         x: 357
@@ -2796,7 +2796,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_87
+      name: MMX.WallShoot_1Landed
       rect:
         serializedVersion: 2
         x: 397
@@ -2817,7 +2817,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_88
+      name: MMX.WallFall_0
       rect:
         serializedVersion: 2
         x: 329
@@ -2838,7 +2838,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_89
+      name: MMX.WallFall_2
       rect:
         serializedVersion: 2
         x: 364
@@ -2859,7 +2859,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_90
+      name: MMX.WallFall_1
       rect:
         serializedVersion: 2
         x: 401
@@ -2880,7 +2880,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_91
+      name: MMX.WallFall_0Shoot
       rect:
         serializedVersion: 2
         x: 331
@@ -2901,7 +2901,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_92
+      name: MMX.WallFall_2Shoot
       rect:
         serializedVersion: 2
         x: 367
@@ -2922,7 +2922,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_93
+      name: MMX.WallFall_1Shoot
       rect:
         serializedVersion: 2
         x: 402
@@ -2943,7 +2943,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_94
+      name: MMX.Crouch_0
       rect:
         serializedVersion: 2
         x: 351
@@ -2964,7 +2964,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_95
+      name: MMX.Crouch_1
       rect:
         serializedVersion: 2
         x: 385
@@ -2985,7 +2985,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_96
+      name: MMX.Crouch_0Shoot
       rect:
         serializedVersion: 2
         x: 351
@@ -3006,7 +3006,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_97
+      name: MMX.Crouch_1Shoot
       rect:
         serializedVersion: 2
         x: 389
@@ -3027,7 +3027,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_98
+      name: MMX.Ladder_0ClimbUpDown
       rect:
         serializedVersion: 2
         x: 303
@@ -3048,7 +3048,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_99
+      name: MMX.Ladder_1
       rect:
         serializedVersion: 2
         x: 329
@@ -3069,7 +3069,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_100
+      name: MMX.Ladder_2
       rect:
         serializedVersion: 2
         x: 357
@@ -3090,10 +3090,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_101
+      name: MMX.Ladder_3
       rect:
         serializedVersion: 2
-        x: 385
+        x: 386
         y: 1124
         width: 24
         height: 41
@@ -3111,7 +3111,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_102
+      name: MMX.Ladder_4
       rect:
         serializedVersion: 2
         x: 412
@@ -3132,7 +3132,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_103
+      name: MMX.Ladder_5Top1
       rect:
         serializedVersion: 2
         x: 440
@@ -3153,7 +3153,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_104
+      name: MMX.Ladder_6Top2
       rect:
         serializedVersion: 2
         x: 468
@@ -3174,7 +3174,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_105
+      name: MMX.Victory_0
       rect:
         serializedVersion: 2
         x: 274
@@ -3195,7 +3195,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_106
+      name: MMX.Victory_1
       rect:
         serializedVersion: 2
         x: 310
@@ -3216,7 +3216,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_107
+      name: MMX.Victory_2
       rect:
         serializedVersion: 2
         x: 349
@@ -3237,7 +3237,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_108
+      name: MMX.Victory_3
       rect:
         serializedVersion: 2
         x: 386
@@ -3258,7 +3258,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_109
+      name: MMX.Victory_4
       rect:
         serializedVersion: 2
         x: 426
@@ -3279,7 +3279,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_110
+      name: MMX.Victory_5
       rect:
         serializedVersion: 2
         x: 462
@@ -3867,7 +3867,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_138
+      name: MMX.HurtMinor_0
       rect:
         serializedVersion: 2
         x: 216
@@ -3888,7 +3888,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_139
+      name: MMX.HurtMinor_3
       rect:
         serializedVersion: 2
         x: 335
@@ -3909,7 +3909,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_140
+      name: MMX.HurtMinor_5Major
       rect:
         serializedVersion: 2
         x: 417
@@ -3930,7 +3930,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_141
+      name: MMX.HurtMinor_7Major
       rect:
         serializedVersion: 2
         x: 499
@@ -3993,7 +3993,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_144
+      name: MMX.HurtMinor_1
       rect:
         serializedVersion: 2
         x: 258
@@ -4014,7 +4014,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_145
+      name: MMX.HurtMinor_2
       rect:
         serializedVersion: 2
         x: 298
@@ -4035,7 +4035,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_146
+      name: MMX.HurtMinor_4
       rect:
         serializedVersion: 2
         x: 380
@@ -4056,7 +4056,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_147
+      name: MMX.HurtMinor_6Major
       rect:
         serializedVersion: 2
         x: 462
@@ -4077,13 +4077,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_148
+      name: MMX.HurtMinor_8Major
       rect:
         serializedVersion: 2
         x: 545
         y: 733
         width: 28
-        height: 31
+        height: 45
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4098,7 +4098,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_149
+      name: MMX.HurtMajor_0
       rect:
         serializedVersion: 2
         x: 304
@@ -4119,7 +4119,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_150
+      name: MMX.HurtMajor_1
       rect:
         serializedVersion: 2
         x: 337
@@ -4140,7 +4140,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_151
+      name: MMX.HurtMajor_2
       rect:
         serializedVersion: 2
         x: 369
@@ -4161,7 +4161,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_152
+      name: MMX.HurtMajor_3
       rect:
         serializedVersion: 2
         x: 413
@@ -4182,7 +4182,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_153
+      name: MMX.HurtMajor_4
       rect:
         serializedVersion: 2
         x: 462
@@ -4203,7 +4203,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_154
+      name: MMX.BeamOut_0
       rect:
         serializedVersion: 2
         x: 287
@@ -4245,7 +4245,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_156
+      name: MMX.BeamOut_1
       rect:
         serializedVersion: 2
         x: 331
@@ -4266,7 +4266,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_157
+      name: MMX.BeamOut_2
       rect:
         serializedVersion: 2
         x: 378
@@ -4287,7 +4287,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_158
+      name: MMX.BeamOut_3
       rect:
         serializedVersion: 2
         x: 430
@@ -4329,7 +4329,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_160
+      name: MMX.BeamOut_4
       rect:
         serializedVersion: 2
         x: 488
@@ -4392,7 +4392,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_163
+      name: ChargedBlast_4
       rect:
         serializedVersion: 2
         x: 342
@@ -4413,7 +4413,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_164
+      name: ChargedBlast_5
       rect:
         serializedVersion: 2
         x: 384
@@ -4434,7 +4434,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_165
+      name: ChargedBlast_6
       rect:
         serializedVersion: 2
         x: 429
@@ -4455,7 +4455,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_166
+      name: ChargedBlast_0
       rect:
         serializedVersion: 2
         x: 351
@@ -4476,7 +4476,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_167
+      name: ChargedBlast_1
       rect:
         serializedVersion: 2
         x: 374
@@ -4497,7 +4497,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_168
+      name: ChargedBlast_2
       rect:
         serializedVersion: 2
         x: 403
@@ -4518,7 +4518,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Custom Edited - Mega Man X Customs - X(0)_169
+      name: ChargedBlast_3
       rect:
         serializedVersion: 2
         x: 429
@@ -6649,21 +6649,13 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Custom Edited - Mega Man X Customs - X(0)_0: 8494774746562956914
-      Custom Edited - Mega Man X Customs - X(0)_1: -7071808648769968699
-      Custom Edited - Mega Man X Customs - X(0)_10: 3278601036896420264
-      Custom Edited - Mega Man X Customs - X(0)_100: -48322829195717137
-      Custom Edited - Mega Man X Customs - X(0)_101: -7219077817094611537
-      Custom Edited - Mega Man X Customs - X(0)_102: -6302405746387441551
-      Custom Edited - Mega Man X Customs - X(0)_103: 1899428791820485787
-      Custom Edited - Mega Man X Customs - X(0)_104: 977361320058794773
-      Custom Edited - Mega Man X Customs - X(0)_105: -8556860802069521882
-      Custom Edited - Mega Man X Customs - X(0)_106: 1972367129214763748
-      Custom Edited - Mega Man X Customs - X(0)_107: 1434496509044837611
-      Custom Edited - Mega Man X Customs - X(0)_108: 7897714597102099009
-      Custom Edited - Mega Man X Customs - X(0)_109: 2231487127186863310
-      Custom Edited - Mega Man X Customs - X(0)_11: 7479502510740301126
-      Custom Edited - Mega Man X Customs - X(0)_110: -3386146200074701578
+      ChargedBlast_0: -5679342156646960480
+      ChargedBlast_1: -7714091167448614918
+      ChargedBlast_2: 9043887161790877188
+      ChargedBlast_3: -3873634639676239054
+      ChargedBlast_4: 5860286591623939602
+      ChargedBlast_5: 2936521936591074799
+      ChargedBlast_6: 6247982002152081052
       Custom Edited - Mega Man X Customs - X(0)_111: 1060053478312061791
       Custom Edited - Mega Man X Customs - X(0)_112: -400554816327604744
       Custom Edited - Mega Man X Customs - X(0)_113: 5670268362964121307
@@ -6673,7 +6665,6 @@ TextureImporter:
       Custom Edited - Mega Man X Customs - X(0)_117: -7048259111427120659
       Custom Edited - Mega Man X Customs - X(0)_118: -3946236468037226415
       Custom Edited - Mega Man X Customs - X(0)_119: 1712332866117928538
-      Custom Edited - Mega Man X Customs - X(0)_12: 5523230876059555178
       Custom Edited - Mega Man X Customs - X(0)_120: -146573247038382687
       Custom Edited - Mega Man X Customs - X(0)_121: -3846124078847217711
       Custom Edited - Mega Man X Customs - X(0)_122: 6362411682136702862
@@ -6693,42 +6684,13 @@ TextureImporter:
       Custom Edited - Mega Man X Customs - X(0)_135: 336463850831982879
       Custom Edited - Mega Man X Customs - X(0)_136: 6351664438484578245
       Custom Edited - Mega Man X Customs - X(0)_137: 6425112129138121634
-      Custom Edited - Mega Man X Customs - X(0)_138: 8497101705241265472
-      Custom Edited - Mega Man X Customs - X(0)_139: 7833762679229417495
-      Custom Edited - Mega Man X Customs - X(0)_14: -5798220359289428128
-      Custom Edited - Mega Man X Customs - X(0)_140: -3402094417036146510
-      Custom Edited - Mega Man X Customs - X(0)_141: -6831105091152077128
       Custom Edited - Mega Man X Customs - X(0)_142: -1872996670164060883
       Custom Edited - Mega Man X Customs - X(0)_143: 43292041419230189
-      Custom Edited - Mega Man X Customs - X(0)_144: -5764775136578433128
-      Custom Edited - Mega Man X Customs - X(0)_145: -5430434114901376672
-      Custom Edited - Mega Man X Customs - X(0)_146: -7760606072445685979
-      Custom Edited - Mega Man X Customs - X(0)_147: 2421632816971976573
-      Custom Edited - Mega Man X Customs - X(0)_148: -7911777973073123204
-      Custom Edited - Mega Man X Customs - X(0)_149: 9081887709584608922
       Custom Edited - Mega Man X Customs - X(0)_15: 1445311627821028581
-      Custom Edited - Mega Man X Customs - X(0)_150: -436739134278605123
-      Custom Edited - Mega Man X Customs - X(0)_151: -4011858201949978550
-      Custom Edited - Mega Man X Customs - X(0)_152: -8921331595351206926
-      Custom Edited - Mega Man X Customs - X(0)_153: 1179734862480719500
-      Custom Edited - Mega Man X Customs - X(0)_154: 1813898796256167136
       Custom Edited - Mega Man X Customs - X(0)_155: 7958947280423174533
-      Custom Edited - Mega Man X Customs - X(0)_156: 9182617389506098595
-      Custom Edited - Mega Man X Customs - X(0)_157: 2551402316693129987
-      Custom Edited - Mega Man X Customs - X(0)_158: -5459100094307835303
       Custom Edited - Mega Man X Customs - X(0)_159: -8942681253436036195
-      Custom Edited - Mega Man X Customs - X(0)_16: -1365671592811061620
-      Custom Edited - Mega Man X Customs - X(0)_160: -7498866856007536941
       Custom Edited - Mega Man X Customs - X(0)_161: -5091613985736938926
       Custom Edited - Mega Man X Customs - X(0)_162: 6650377600225377994
-      Custom Edited - Mega Man X Customs - X(0)_163: 5860286591623939602
-      Custom Edited - Mega Man X Customs - X(0)_164: 2936521936591074799
-      Custom Edited - Mega Man X Customs - X(0)_165: 6247982002152081052
-      Custom Edited - Mega Man X Customs - X(0)_166: -5679342156646960480
-      Custom Edited - Mega Man X Customs - X(0)_167: -7714091167448614918
-      Custom Edited - Mega Man X Customs - X(0)_168: 9043887161790877188
-      Custom Edited - Mega Man X Customs - X(0)_169: -3873634639676239054
-      Custom Edited - Mega Man X Customs - X(0)_17: 867530193132275163
       Custom Edited - Mega Man X Customs - X(0)_170: -3809527237132438501
       Custom Edited - Mega Man X Customs - X(0)_171: -6617276417209496651
       Custom Edited - Mega Man X Customs - X(0)_172: 6778829691037235186
@@ -6760,7 +6722,6 @@ TextureImporter:
       Custom Edited - Mega Man X Customs - X(0)_197: 1510229637821231370
       Custom Edited - Mega Man X Customs - X(0)_198: 7929419839483147841
       Custom Edited - Mega Man X Customs - X(0)_199: 2378232079495476228
-      Custom Edited - Mega Man X Customs - X(0)_2: 6460828284420850505
       Custom Edited - Mega Man X Customs - X(0)_200: -4368926094017695699
       Custom Edited - Mega Man X Customs - X(0)_201: 1095102148836996684
       Custom Edited - Mega Man X Customs - X(0)_202: 4079256807497464559
@@ -6801,7 +6762,6 @@ TextureImporter:
       Custom Edited - Mega Man X Customs - X(0)_237: 1640435468916752657
       Custom Edited - Mega Man X Customs - X(0)_238: -1156048492609054955
       Custom Edited - Mega Man X Customs - X(0)_239: -6360507136099330693
-      Custom Edited - Mega Man X Customs - X(0)_24: 7741194481445010586
       Custom Edited - Mega Man X Customs - X(0)_240: -8855879784665277632
       Custom Edited - Mega Man X Customs - X(0)_241: 3559624518974481682
       Custom Edited - Mega Man X Customs - X(0)_242: -4842746661374381320
@@ -6812,7 +6772,6 @@ TextureImporter:
       Custom Edited - Mega Man X Customs - X(0)_247: -7928213647690942192
       Custom Edited - Mega Man X Customs - X(0)_248: -9022749223473170416
       Custom Edited - Mega Man X Customs - X(0)_249: -8403583854332939674
-      Custom Edited - Mega Man X Customs - X(0)_25: 429406871952106739
       Custom Edited - Mega Man X Customs - X(0)_250: -6056225664645817456
       Custom Edited - Mega Man X Customs - X(0)_251: -6444381206438331879
       Custom Edited - Mega Man X Customs - X(0)_252: -3626508543509465376
@@ -6823,7 +6782,6 @@ TextureImporter:
       Custom Edited - Mega Man X Customs - X(0)_257: -6485734154493184946
       Custom Edited - Mega Man X Customs - X(0)_258: 4650591145457824341
       Custom Edited - Mega Man X Customs - X(0)_259: 3951405197494855624
-      Custom Edited - Mega Man X Customs - X(0)_26: -1270963052922013577
       Custom Edited - Mega Man X Customs - X(0)_260: -1261458476456544874
       Custom Edited - Mega Man X Customs - X(0)_261: 961438204612131965
       Custom Edited - Mega Man X Customs - X(0)_262: 2122174527993043297
@@ -6834,91 +6792,133 @@ TextureImporter:
       Custom Edited - Mega Man X Customs - X(0)_267: 8385277286090164171
       Custom Edited - Mega Man X Customs - X(0)_268: -4933044254883810185
       Custom Edited - Mega Man X Customs - X(0)_269: 5164682333742387695
-      Custom Edited - Mega Man X Customs - X(0)_27: -1338399830149037299
-      Custom Edited - Mega Man X Customs - X(0)_28: 7161898078801484378
-      Custom Edited - Mega Man X Customs - X(0)_29: 7839072726204052946
-      Custom Edited - Mega Man X Customs - X(0)_3: 7289385302997483538
-      Custom Edited - Mega Man X Customs - X(0)_30: 807081917294648821
-      Custom Edited - Mega Man X Customs - X(0)_31: 7064464523469790408
-      Custom Edited - Mega Man X Customs - X(0)_32: -2102029364372381787
-      Custom Edited - Mega Man X Customs - X(0)_33: -5478039389084497768
-      Custom Edited - Mega Man X Customs - X(0)_34: -5011738334202793555
-      Custom Edited - Mega Man X Customs - X(0)_35: 7516824660132968891
-      Custom Edited - Mega Man X Customs - X(0)_36: -1227138958367876992
-      Custom Edited - Mega Man X Customs - X(0)_37: 135042495050126924
-      Custom Edited - Mega Man X Customs - X(0)_38: 8512858299444988249
-      Custom Edited - Mega Man X Customs - X(0)_39: 1169061594511738012
-      Custom Edited - Mega Man X Customs - X(0)_4: -7428440660139980729
-      Custom Edited - Mega Man X Customs - X(0)_40: 5591441937534973472
-      Custom Edited - Mega Man X Customs - X(0)_41: -7908686607185259602
-      Custom Edited - Mega Man X Customs - X(0)_42: 8931491096444663630
-      Custom Edited - Mega Man X Customs - X(0)_43: 9162479697240767539
-      Custom Edited - Mega Man X Customs - X(0)_44: -97575974111768176
-      Custom Edited - Mega Man X Customs - X(0)_45: 2296568486881248416
-      Custom Edited - Mega Man X Customs - X(0)_46: 3801138324073249133
-      Custom Edited - Mega Man X Customs - X(0)_47: -5830597571317181830
-      Custom Edited - Mega Man X Customs - X(0)_48: -4581007795291847314
-      Custom Edited - Mega Man X Customs - X(0)_49: 1413621912069374933
-      Custom Edited - Mega Man X Customs - X(0)_5: -5943930364982052783
-      Custom Edited - Mega Man X Customs - X(0)_50: -6089397256056613406
-      Custom Edited - Mega Man X Customs - X(0)_51: -5208950014871107623
-      Custom Edited - Mega Man X Customs - X(0)_52: 4696156749495628513
-      Custom Edited - Mega Man X Customs - X(0)_53: 7811407345818670163
-      Custom Edited - Mega Man X Customs - X(0)_54: -3581655836245743145
-      Custom Edited - Mega Man X Customs - X(0)_55: 9079825371047247782
-      Custom Edited - Mega Man X Customs - X(0)_56: -6903612601007134025
-      Custom Edited - Mega Man X Customs - X(0)_57: -5042686418020417649
-      Custom Edited - Mega Man X Customs - X(0)_58: -3441598369705196093
-      Custom Edited - Mega Man X Customs - X(0)_59: 7424245928512969652
-      Custom Edited - Mega Man X Customs - X(0)_6: -3854324785513882542
-      Custom Edited - Mega Man X Customs - X(0)_60: -1736376245127840040
-      Custom Edited - Mega Man X Customs - X(0)_61: 3311349686898266233
-      Custom Edited - Mega Man X Customs - X(0)_62: 6026542222301753090
-      Custom Edited - Mega Man X Customs - X(0)_63: 3699004271400006968
-      Custom Edited - Mega Man X Customs - X(0)_64: -8439271178422097418
-      Custom Edited - Mega Man X Customs - X(0)_65: -2872335330880547929
-      Custom Edited - Mega Man X Customs - X(0)_66: 5343318220526576833
-      Custom Edited - Mega Man X Customs - X(0)_67: -1291272649792174500
-      Custom Edited - Mega Man X Customs - X(0)_68: 189197707632241185
-      Custom Edited - Mega Man X Customs - X(0)_69: -4131392195667223225
-      Custom Edited - Mega Man X Customs - X(0)_7: 3499134648091261785
-      Custom Edited - Mega Man X Customs - X(0)_70: -30572665880711400
-      Custom Edited - Mega Man X Customs - X(0)_71: -235984824059312244
-      Custom Edited - Mega Man X Customs - X(0)_72: -7523391497346224828
-      Custom Edited - Mega Man X Customs - X(0)_73: -2911693540387259455
-      Custom Edited - Mega Man X Customs - X(0)_74: -5865255587768042360
-      Custom Edited - Mega Man X Customs - X(0)_75: -835881073374075846
-      Custom Edited - Mega Man X Customs - X(0)_76: 1305887360052691069
-      Custom Edited - Mega Man X Customs - X(0)_77: 6522792642352938825
-      Custom Edited - Mega Man X Customs - X(0)_78: 6365652395393774618
-      Custom Edited - Mega Man X Customs - X(0)_79: -2838572100174515630
-      Custom Edited - Mega Man X Customs - X(0)_8: 5843617039505091177
-      Custom Edited - Mega Man X Customs - X(0)_80: 8741627820183268065
-      Custom Edited - Mega Man X Customs - X(0)_81: -4960270631396152381
-      Custom Edited - Mega Man X Customs - X(0)_82: 7496788649782545575
-      Custom Edited - Mega Man X Customs - X(0)_83: -6843459597514919468
-      Custom Edited - Mega Man X Customs - X(0)_84: 4305640921917587935
-      Custom Edited - Mega Man X Customs - X(0)_85: 2572756670431718768
-      Custom Edited - Mega Man X Customs - X(0)_86: 4232714213391464881
-      Custom Edited - Mega Man X Customs - X(0)_87: 1177363458115410956
-      Custom Edited - Mega Man X Customs - X(0)_88: -9141117076360279136
-      Custom Edited - Mega Man X Customs - X(0)_89: -3792931077595936413
-      Custom Edited - Mega Man X Customs - X(0)_9: 4480048117435972623
-      Custom Edited - Mega Man X Customs - X(0)_90: 2771333663686095055
-      Custom Edited - Mega Man X Customs - X(0)_91: 3685983054356143965
-      Custom Edited - Mega Man X Customs - X(0)_92: 332883120493497765
-      Custom Edited - Mega Man X Customs - X(0)_93: -3293021816868141431
-      Custom Edited - Mega Man X Customs - X(0)_94: 6628497321875718206
-      Custom Edited - Mega Man X Customs - X(0)_95: 8844027542897276384
-      Custom Edited - Mega Man X Customs - X(0)_96: -3673491230943625548
-      Custom Edited - Mega Man X Customs - X(0)_97: 6210041518592148530
-      Custom Edited - Mega Man X Customs - X(0)_98: 5027251566465332458
-      Custom Edited - Mega Man X Customs - X(0)_99: 4947445839354042045
-      Idle_0: -3934797371257621993
-      Idle_1: 2301665888033327311
-      Idle_2: -3931268923559801856
-      Idle_3: -7258557663226350078
-      Idle_4: 4239054931967034572
+      MMX.BeamDown_0: 8494774746562956914
+      MMX.BeamDown_1: -7071808648769968699
+      MMX.BeamDown_10: 4480048117435972623
+      MMX.BeamDown_11: 3278601036896420264
+      MMX.BeamDown_12: 7479502510740301126
+      MMX.BeamDown_13: 5523230876059555178
+      MMX.BeamDown_14: -5798220359289428128
+      MMX.BeamDown_15: -1365671592811061620
+      MMX.BeamDown_2: 867530193132275163
+      MMX.BeamDown_3: 6460828284420850505
+      MMX.BeamDown_4: 7289385302997483538
+      MMX.BeamDown_5: -7428440660139980729
+      MMX.BeamDown_6: -5943930364982052783
+      MMX.BeamDown_7: -3854324785513882542
+      MMX.BeamDown_8: 3499134648091261785
+      MMX.BeamDown_9: 5843617039505091177
+      MMX.BeamOut_0: 1813898796256167136
+      MMX.BeamOut_1: 9182617389506098595
+      MMX.BeamOut_2: 2551402316693129987
+      MMX.BeamOut_3: -5459100094307835303
+      MMX.BeamOut_4: -7498866856007536941
+      MMX.Crouch_0: 6628497321875718206
+      MMX.Crouch_0Shoot: -3673491230943625548
+      MMX.Crouch_1: 8844027542897276384
+      MMX.Crouch_1Shoot: 6210041518592148530
+      MMX.DashShoot_0: -1291272649792174500
+      MMX.DashShoot_1: 5343318220526576833
+      MMX.DashShoot_2: -8439271178422097418
+      MMX.DashShoot_3: -2872335330880547929
+      MMX.Dash_0: 3699004271400006968
+      MMX.Dash_1Loop2: 3311349686898266233
+      MMX.Dash_2Loop0: 7424245928512969652
+      MMX.Dash_3Loop1: -1736376245127840040
+      MMX.Dash_4End: 6026542222301753090
+      MMX.HurtMajor_0: 9081887709584608922
+      MMX.HurtMajor_1: -436739134278605123
+      MMX.HurtMajor_2: -4011858201949978550
+      MMX.HurtMajor_3: -8921331595351206926
+      MMX.HurtMajor_4: 1179734862480719500
+      MMX.HurtMinor_0: 8497101705241265472
+      MMX.HurtMinor_1: -5764775136578433128
+      MMX.HurtMinor_2: -5430434114901376672
+      MMX.HurtMinor_3: 7833762679229417495
+      MMX.HurtMinor_4: -7760606072445685979
+      MMX.HurtMinor_5Major: -3402094417036146510
+      MMX.HurtMinor_6Major: 2421632816971976573
+      MMX.HurtMinor_7Major: -6831105091152077128
+      MMX.HurtMinor_8Major: -7911777973073123204
+      MMX.IdleLow_0: 7741194481445010586
+      MMX.IdleLow_1: 429406871952106739
+      MMX.IdleLow_2: -1270963052922013577
+      MMX.IdleLow_3: -1338399830149037299
+      MMX.IdleLow_4: 7161898078801484378
+      MMX.IdleShootCharged_0: 9079825371047247782
+      MMX.IdleShootCharged_1: -6903612601007134025
+      MMX.IdleShootCharged_2: -5042686418020417649
+      MMX.IdleShootCharged_3: -3441598369705196093
+      MMX.IdleShootCharged_4: -3581655836245743145
+      MMX.IdleShoot_0: -5208950014871107623
+      MMX.IdleShoot_1: 4696156749495628513
+      MMX.IdleShoot_2: 7811407345818670163
+      MMX.Idle_0: -3934797371257621993
+      MMX.Idle_1: 2301665888033327311
+      MMX.Idle_2: -3931268923559801856
+      MMX.Idle_3: -7258557663226350078
+      MMX.Idle_4: 4239054931967034572
+      MMX.JumpShoot_0Land3: -4960270631396152381
+      MMX.JumpShoot_1Leap: 1305887360052691069
+      MMX.JumpShoot_2Top: 6522792642352938825
+      MMX.JumpShoot_2Top1: 2572756670431718768
+      MMX.JumpShoot_3Fall1: 6365652395393774618
+      MMX.JumpShoot_4Fall2: -2838572100174515630
+      MMX.JumpShoot_5Land1: -835881073374075846
+      MMX.JumpShoot_6Land2: 8741627820183268065
+      MMX.Jump_0Land3: -5865255587768042360
+      MMX.Jump_1Leap: -4131392195667223225
+      MMX.Jump_2Top1: -30572665880711400
+      MMX.Jump_2Top2: 7496788649782545575
+      MMX.Jump_3Fall1: -235984824059312244
+      MMX.Jump_4Fall2: -7523391497346224828
+      MMX.Jump_5Land1: 189197707632241185
+      MMX.Jump_6Land2: -2911693540387259455
+      MMX.Ladder_0ClimbUpDown: 5027251566465332458
+      MMX.Ladder_1: 4947445839354042045
+      MMX.Ladder_2: -48322829195717137
+      MMX.Ladder_3: -7219077817094611537
+      MMX.Ladder_4: -6302405746387441551
+      MMX.Ladder_5Top1: 1899428791820485787
+      MMX.Ladder_6Top2: 977361320058794773
+      MMX.RunShoot_0: 5591441937534973472
+      MMX.RunShoot_1: -7908686607185259602
+      MMX.RunShoot_10: -6089397256056613406
+      MMX.RunShoot_2: 8931491096444663630
+      MMX.RunShoot_3: 9162479697240767539
+      MMX.RunShoot_4: -97575974111768176
+      MMX.RunShoot_5: 2296568486881248416
+      MMX.RunShoot_6: 3801138324073249133
+      MMX.RunShoot_7: -5830597571317181830
+      MMX.RunShoot_8: -4581007795291847314
+      MMX.RunShoot_9: 1413621912069374933
+      MMX.Run_0: 7839072726204052946
+      MMX.Run_1: 807081917294648821
+      MMX.Run_10: 1169061594511738012
+      MMX.Run_2: 7064464523469790408
+      MMX.Run_3: -2102029364372381787
+      MMX.Run_4: -5478039389084497768
+      MMX.Run_5: -5011738334202793555
+      MMX.Run_6: 7516824660132968891
+      MMX.Run_7: -1227138958367876992
+      MMX.Run_8: 135042495050126924
+      MMX.Run_9: 8512858299444988249
+      MMX.Victory_0: -8556860802069521882
+      MMX.Victory_1: 1972367129214763748
+      MMX.Victory_2: 1434496509044837611
+      MMX.Victory_3: 7897714597102099009
+      MMX.Victory_4: 2231487127186863310
+      MMX.Victory_5: -3386146200074701578
+      MMX.WallFall_0: -9141117076360279136
+      MMX.WallFall_0Shoot: 3685983054356143965
+      MMX.WallFall_1: 2771333663686095055
+      MMX.WallFall_1Shoot: -3293021816868141431
+      MMX.WallFall_2: -3792931077595936413
+      MMX.WallFall_2Shoot: 332883120493497765
+      MMX.WallShoot_0LandingSliding: 4232714213391464881
+      MMX.WallShoot_1Landed: 1177363458115410956
+      MMX.Wall_0LandingSliding: -6843459597514919468
+      MMX.Wall_1Landed: 4305640921917587935
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,0 +1,765 @@
+fileFormatVersion: 2
+guid: 7828add98abce6247ad71a6bb0ab19f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3964914024279468312
+    second: MMX.VictoryExitBeamOut_0
+  - first:
+      213: -1449072856444120293
+    second: MMX.VictoryExitBeamOut_1
+  - first:
+      213: 3406760094505205462
+    second: MMX.VictoryExitBeamOut_2
+  - first:
+      213: -5748574310497681540
+    second: MMX.VictoryExitBeamOut_3
+  - first:
+      213: 3144352244178562242
+    second: MMX.VictoryExitBeamOut_4
+  - first:
+      213: -4392293555005217368
+    second: MMX.VictoryExitBeamOut_5
+  - first:
+      213: 2405199273365872650
+    second: MMX.VictoryExitBeamOut_6
+  - first:
+      213: 1878408912231027887
+    second: MMX.VictoryExitBeamOut_7
+  - first:
+      213: -2450520270314261622
+    second: MMX.VictoryExitBeamOut_8
+  - first:
+      213: 1848704970431452742
+    second: MMX.VictoryExitBeamOut_9
+  - first:
+      213: -6613988541166252440
+    second: MMX.VictoryExitBeamOut_10
+  - first:
+      213: -3298651268143639802
+    second: MMX.VictoryExitBeamOut_11
+  - first:
+      213: -444596647897446007
+    second: MMX.VictoryExitBeamOut_12
+  - first:
+      213: 45250344298980723
+    second: MMX.VictoryExitBeamOut_13
+  - first:
+      213: 5849122013405737939
+    second: MMX.VictoryExitBeamOut_14
+  - first:
+      213: -5093267768097021609
+    second: MMX.VictoryExitBeamOut_15
+  - first:
+      213: -2063478574185421390
+    second: MMX.VictoryExitBeamOut_16
+  - first:
+      213: -6722317473241985678
+    second: MMX.VictoryExitBeamOut_17
+  - first:
+      213: -8254970848452615724
+    second: MMX.VictoryExitBeamOut_18
+  - first:
+      213: 4578432549264840609
+    second: MMX.VictoryExitBeamOut_19
+  - first:
+      213: -5247618521477242716
+    second: MMX.VictoryExitBeamOut_20
+  - first:
+      213: -7357090018899931427
+    second: MMX.VictoryExitBeamOut_21
+  - first:
+      213: 616951358132841318
+    second: MMX.VictoryExitBeamOut_22
+  - first:
+      213: -8961247500620080966
+    second: MMX.VictoryExitBeamOut_23
+  - first:
+      213: -6531350548870836615
+    second: MMX.VictoryExitBeamOut_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MMX.VictoryExitBeamOut_0
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 72
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e69bd1b3bbc9f8c0800000000000000
+      internalID: -3964914024279468312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.VictoryExitBeamOut_1
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 67
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13dcf12aebd3ebe0800000000000000
+      internalID: -1449072856444120293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.VictoryExitBeamOut_2
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 9
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de75f3914e374f20800000000000000
+      internalID: 3406760094505205462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.VictoryExitBeamOut_3
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 77
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f79d13f16f830b0800000000000000
+      internalID: -5748574310497681540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.VictoryExitBeamOut_4
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 5
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc27f2e4bbf2ab20800000000000000
+      internalID: 3144352244178562242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.VictoryExitBeamOut_5
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 3
+        width: 16
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a52da878407b03c0800000000000000
+      internalID: -4392293555005217368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.VictoryExitBeamOut_6
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 6
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00200feefbf06120800000000000000
+      internalID: 2405199273365872650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.VictoryExitBeamOut_7
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 59
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4557414f2711a10800000000000000
+      internalID: 1878408912231027887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.VictoryExitBeamOut_8
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 6
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83360d2cc00efdd0800000000000000
+      internalID: -2450520270314261622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.VictoryExitBeamOut_9
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 31
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646d011306be7a910800000000000000
+      internalID: 1848704970431452742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.VictoryExitBeamOut_10
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 61
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e0847d6746634a0800000000000000
+      internalID: -6613988541166252440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.VictoryExitBeamOut_11
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 54
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603186c0626d832d0800000000000000
+      internalID: -3298651268143639802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.VictoryExitBeamOut_12
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 55
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9894ebd44b974d9f0800000000000000
+      internalID: -444596647897446007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.VictoryExitBeamOut_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 6
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375a7e9c2f2c0a000800000000000000
+      internalID: 45250344298980723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.VictoryExitBeamOut_14
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 6
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d377f03b714c2150800000000000000
+      internalID: 5849122013405737939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.VictoryExitBeamOut_15
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 6
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75161a043f31159b0800000000000000
+      internalID: -5093267768097021609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.VictoryExitBeamOut_16
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 3
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b56c086b2d0d53e0800000000000000
+      internalID: -2063478574185421390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.VictoryExitBeamOut_17
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 50
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d820cdfd785b2a0800000000000000
+      internalID: -6722317473241985678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.VictoryExitBeamOut_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 6
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1e6c200c3707d80800000000000000
+      internalID: -8254970848452615724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.VictoryExitBeamOut_19
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 31
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7540f552cd98f30800000000000000
+      internalID: 4578432549264840609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.VictoryExitBeamOut_20
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 23
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0a69ef1c6bc27b0800000000000000
+      internalID: -5247618521477242716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.VictoryExitBeamOut_21
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 31
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddec5ea7b9d56e990800000000000000
+      internalID: -7357090018899931427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.VictoryExitBeamOut_22
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 37
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66be331ddf9df8800800000000000000
+      internalID: 616951358132841318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.VictoryExitBeamOut_23
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 34
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8de2d70e043a380800000000000000
+      internalID: -8961247500620080966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.VictoryExitBeamOut_24
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 33
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e4007c74bfb55a0800000000000000
+      internalID: -6531350548870836615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MMX.VictoryExitBeamOut_0: -3964914024279468312
+      MMX.VictoryExitBeamOut_1: -1449072856444120293
+      MMX.VictoryExitBeamOut_10: -6613988541166252440
+      MMX.VictoryExitBeamOut_11: -3298651268143639802
+      MMX.VictoryExitBeamOut_12: -444596647897446007
+      MMX.VictoryExitBeamOut_13: 45250344298980723
+      MMX.VictoryExitBeamOut_14: 5849122013405737939
+      MMX.VictoryExitBeamOut_15: -5093267768097021609
+      MMX.VictoryExitBeamOut_16: -2063478574185421390
+      MMX.VictoryExitBeamOut_17: -6722317473241985678
+      MMX.VictoryExitBeamOut_18: -8254970848452615724
+      MMX.VictoryExitBeamOut_19: 4578432549264840609
+      MMX.VictoryExitBeamOut_2: 3406760094505205462
+      MMX.VictoryExitBeamOut_20: -5247618521477242716
+      MMX.VictoryExitBeamOut_21: -7357090018899931427
+      MMX.VictoryExitBeamOut_22: 616951358132841318
+      MMX.VictoryExitBeamOut_23: -8961247500620080966
+      MMX.VictoryExitBeamOut_24: -6531350548870836615
+      MMX.VictoryExitBeamOut_3: -5748574310497681540
+      MMX.VictoryExitBeamOut_4: 3144352244178562242
+      MMX.VictoryExitBeamOut_5: -4392293555005217368
+      MMX.VictoryExitBeamOut_6: 2405199273365872650
+      MMX.VictoryExitBeamOut_7: 1878408912231027887
+      MMX.VictoryExitBeamOut_8: -2450520270314261622
+      MMX.VictoryExitBeamOut_9: 1848704970431452742
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

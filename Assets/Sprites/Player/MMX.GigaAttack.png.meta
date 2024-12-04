@@ -1,0 +1,565 @@
+fileFormatVersion: 2
+guid: 34e067a3d301843459e84f46d8eb79fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1035519900076751830
+    second: MMX.GigaAttack_0
+  - first:
+      213: -5723227500136469661
+    second: MMX.GigaAttack_1
+  - first:
+      213: 5065541939313244109
+    second: MMX.GigaAttack_2
+  - first:
+      213: -3221059751283820515
+    second: MMX.GigaAttack_3
+  - first:
+      213: 5816986244045013429
+    second: MMX.GigaAttack_4
+  - first:
+      213: 6442812499990741863
+    second: MMX.GigaAttack_5
+  - first:
+      213: -3773283182625756493
+    second: MMX.GigaAttack_6
+  - first:
+      213: -932879813568303953
+    second: MMX.GigaAttack_7
+  - first:
+      213: 4354292473552726247
+    second: MMX.GigaAttack_8
+  - first:
+      213: -8889741943369697368
+    second: MMX.GigaAttack_9
+  - first:
+      213: -145183251110792842
+    second: MMX.GigaAttack_10
+  - first:
+      213: -2965411715545412035
+    second: MMX.GigaAttack_11
+  - first:
+      213: 8087066144131925057
+    second: MMX.GigaAttack_12
+  - first:
+      213: 5251775385569490003
+    second: MMX.GigaAttack_13
+  - first:
+      213: 4025620929551278141
+    second: MMX.GigaAttack_14
+  - first:
+      213: 4554646719332382969
+    second: MMX.GigaAttack_15
+  - first:
+      213: -3188281921084462404
+    second: MMX.GigaAttack_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MMX.GigaAttack_0
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 72
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24c316232811a1f0800000000000000
+      internalID: -1035519900076751830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.GigaAttack_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 6
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b6e9d59e20390b0800000000000000
+      internalID: -5723227500136469661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.GigaAttack_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7fb9f2e8b6c4640800000000000000
+      internalID: 5065541939313244109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.GigaAttack_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d187b6cd83f7c43d0800000000000000
+      internalID: -3221059751283820515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.GigaAttack_4
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 6
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b103a35b261ab050800000000000000
+      internalID: 5816986244045013429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.GigaAttack_5
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 19
+        width: 64
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763056055d7796950800000000000000
+      internalID: 6442812499990741863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.GigaAttack_6
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 15
+        width: 87
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bae2a6efea92abc0800000000000000
+      internalID: -3773283182625756493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.GigaAttack_7
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 12
+        width: 110
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: face02e80cebd03f0800000000000000
+      internalID: -932879813568303953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.GigaAttack_8
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 48
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e864464fed8d6c30800000000000000
+      internalID: 4354292473552726247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.GigaAttack_9
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 5
+        width: 119
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7fe886dca41a480800000000000000
+      internalID: -8889741943369697368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.GigaAttack_10
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 19
+        width: 64
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67174323a943cfdf0800000000000000
+      internalID: -145183251110792842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.GigaAttack_11
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 15
+        width: 87
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e422291cdb8d6d0800000000000000
+      internalID: -2965411715545412035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.GigaAttack_12
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 12
+        width: 110
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144421c9fc70b3070800000000000000
+      internalID: 8087066144131925057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.GigaAttack_13
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 48
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354720953ed02e840800000000000000
+      internalID: 5251775385569490003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.GigaAttack_14
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 5
+        width: 119
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30284228e0edd730800000000000000
+      internalID: 4025620929551278141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.GigaAttack_15
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 5
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f874374f0b553f30800000000000000
+      internalID: 4554646719332382969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.GigaAttack_16
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 5
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbae5f92c72f0c3d0800000000000000
+      internalID: -3188281921084462404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MMX.GigaAttack_0: -1035519900076751830
+      MMX.GigaAttack_1: -5723227500136469661
+      MMX.GigaAttack_10: -145183251110792842
+      MMX.GigaAttack_11: -2965411715545412035
+      MMX.GigaAttack_12: 8087066144131925057
+      MMX.GigaAttack_13: 5251775385569490003
+      MMX.GigaAttack_14: 4025620929551278141
+      MMX.GigaAttack_15: 4554646719332382969
+      MMX.GigaAttack_16: -3188281921084462404
+      MMX.GigaAttack_2: 5065541939313244109
+      MMX.GigaAttack_3: -3221059751283820515
+      MMX.GigaAttack_4: 5816986244045013429
+      MMX.GigaAttack_5: 6442812499990741863
+      MMX.GigaAttack_6: -3773283182625756493
+      MMX.GigaAttack_7: -932879813568303953
+      MMX.GigaAttack_8: 4354292473552726247
+      MMX.GigaAttack_9: -8889741943369697368
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

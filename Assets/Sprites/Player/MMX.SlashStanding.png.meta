@@ -1,0 +1,515 @@
+fileFormatVersion: 2
+guid: 9ddd54c7ddc02f94ba9c616b2103248f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8295361822068910371
+    second: MMX.SlashStanding_0
+  - first:
+      213: 7746377693987092354
+    second: MMX.SlashStanding_1
+  - first:
+      213: 7756670991097674415
+    second: MMX.SlashStanding_2
+  - first:
+      213: 3024717397766215250
+    second: MMX.SlashStanding_3
+  - first:
+      213: 3520840060163369260
+    second: MMX.SlashStanding_4
+  - first:
+      213: -5065063256648289932
+    second: MMX.SlashStanding_5
+  - first:
+      213: 8517693085227371946
+    second: MMX.SlashStanding_6
+  - first:
+      213: 2826401114885578293
+    second: MMX.SlashStanding_7
+  - first:
+      213: 2425606496741451773
+    second: MMX.SlashStanding_8
+  - first:
+      213: 8036382973593150164
+    second: MMX.SlashStanding_9
+  - first:
+      213: 6590932820370766976
+    second: MMX.SlashStanding_10
+  - first:
+      213: 8124287045010743748
+    second: MMX.SlashStanding_11
+  - first:
+      213: 3705683694542140676
+    second: MMX.SlashStanding_12
+  - first:
+      213: -2361330613411095726
+    second: MMX.SlashStanding_13
+  - first:
+      213: -5377274861945021766
+    second: MMX.SlashStanding_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MMX.SlashStanding_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 10
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6de30af54f0ec80800000000000000
+      internalID: -8295361822068910371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.SlashStanding_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 10
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2873c1a7879a08b60800000000000000
+      internalID: 7746377693987092354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.SlashStanding_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 10
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa34f77b2b35ab60800000000000000
+      internalID: 7756670991097674415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.SlashStanding_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 10
+        width: 97
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2569cc79274f9f920800000000000000
+      internalID: 3024717397766215250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.SlashStanding_4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2
+        width: 103
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29a00961698cd030800000000000000
+      internalID: 3520840060163369260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.SlashStanding_5
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1
+        width: 104
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471789ecdc745b9b0800000000000000
+      internalID: -5065063256648289932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.SlashStanding_6
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1
+        width: 102
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad47ca7bbce43670800000000000000
+      internalID: 8517693085227371946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.SlashStanding_7
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1
+        width: 72
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ed58dc6d4693720800000000000000
+      internalID: 2826401114885578293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.SlashStanding_8
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 6
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df76723e14c79a120800000000000000
+      internalID: 2425606496741451773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.SlashStanding_9
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 8
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d264046cb7f68f60800000000000000
+      internalID: 8036382973593150164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.SlashStanding_10
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 10
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08cb9a8da72b77b50800000000000000
+      internalID: 6590932820370766976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.SlashStanding_11
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 10
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c16c2be5044fb070800000000000000
+      internalID: 8124287045010743748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.SlashStanding_12
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 10
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4053427cfab3d6330800000000000000
+      internalID: 3705683694542140676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.SlashStanding_13
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 10
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b5066615eda3fd0800000000000000
+      internalID: -2361330613411095726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.SlashStanding_14
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 10
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba112ac0051065b0800000000000000
+      internalID: -5377274861945021766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MMX.SlashStanding_0: -8295361822068910371
+      MMX.SlashStanding_1: 7746377693987092354
+      MMX.SlashStanding_10: 6590932820370766976
+      MMX.SlashStanding_11: 8124287045010743748
+      MMX.SlashStanding_12: 3705683694542140676
+      MMX.SlashStanding_13: -2361330613411095726
+      MMX.SlashStanding_14: -5377274861945021766
+      MMX.SlashStanding_2: 7756670991097674415
+      MMX.SlashStanding_3: 3024717397766215250
+      MMX.SlashStanding_4: 3520840060163369260
+      MMX.SlashStanding_5: -5065063256648289932
+      MMX.SlashStanding_6: 8517693085227371946
+      MMX.SlashStanding_7: 2826401114885578293
+      MMX.SlashStanding_8: 2425606496741451773
+      MMX.SlashStanding_9: 8036382973593150164
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

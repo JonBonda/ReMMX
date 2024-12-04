@@ -1,0 +1,565 @@
+fileFormatVersion: 2
+guid: 7ad7e0a3b3de7ca42a3e66ad6f312655
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8701877763600197683
+    second: MMX.BeamDownIntro_0
+  - first:
+      213: -7440139253009957678
+    second: MMX.BeamDownIntro_1
+  - first:
+      213: 107209935916961360
+    second: MMX.BeamDownIntro_2
+  - first:
+      213: -3809260227128614370
+    second: MMX.BeamDownIntro_3
+  - first:
+      213: 6832017644889529068
+    second: MMX.BeamDownIntro_4
+  - first:
+      213: 7879324522431134454
+    second: MMX.BeamDownIntro_5
+  - first:
+      213: 8733703869411978172
+    second: MMX.BeamDownIntro_6
+  - first:
+      213: 8213216619547440190
+    second: MMX.BeamDownIntro_7
+  - first:
+      213: 5236577823597910031
+    second: MMX.BeamDownIntro_8
+  - first:
+      213: -418703102351246052
+    second: MMX.BeamDownIntro_9
+  - first:
+      213: -531571820561540139
+    second: MMX.BeamDownIntro_10
+  - first:
+      213: 8331009687108977255
+    second: MMX.BeamDownIntro_11
+  - first:
+      213: -3705250194646562459
+    second: MMX.BeamDownIntro_12
+  - first:
+      213: -7987006136615605153
+    second: MMX.BeamDownIntro_13
+  - first:
+      213: -3592811489645268632
+    second: MMX.BeamDownIntro_14
+  - first:
+      213: 2938162631241571895
+    second: MMX.BeamDownIntro_15
+  - first:
+      213: -8524389070100992822
+    second: MMX.BeamDownIntro_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MMX.BeamDownIntro_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 13
+        width: 8
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338a242b8b743c870800000000000000
+      internalID: 8701877763600197683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.BeamDownIntro_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 13
+        width: 23
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcb6e8d4c05fb890800000000000000
+      internalID: -7440139253009957678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.BeamDownIntro_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 13
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e09b26ed2ec7100800000000000000
+      internalID: 107209935916961360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.BeamDownIntro_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 3
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12a9f8710ac22bc0800000000000000
+      internalID: -3809260227128614370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.BeamDownIntro_4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea57d6b9d330de50800000000000000
+      internalID: 6832017644889529068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.BeamDownIntro_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa388d18ebf85d60800000000000000
+      internalID: 7879324522431134454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.BeamDownIntro_6
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 13
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb61c56569543970800000000000000
+      internalID: 8733703869411978172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.BeamDownIntro_7
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 3
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34b57ffff43bf170800000000000000
+      internalID: 8213216619547440190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.BeamDownIntro_8
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 10
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08dd3639cf0ca840800000000000000
+      internalID: 5236577823597910031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.BeamDownIntro_9
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 13
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1dfffd2fb7703af0800000000000000
+      internalID: -418703102351246052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.BeamDownIntro_10
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db52dede3a7f98f0800000000000000
+      internalID: -531571820561540139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.BeamDownIntro_11
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 13
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762087cbb21bd9370800000000000000
+      internalID: 8331009687108977255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.BeamDownIntro_12
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 13
+        width: 23
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5690528449e449cc0800000000000000
+      internalID: -3705250194646562459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.BeamDownIntro_13
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 13
+        width: 22
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c69285c34782190800000000000000
+      internalID: -7987006136615605153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.BeamDownIntro_14
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 13
+        width: 83
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86170c65cf4c32ec0800000000000000
+      internalID: -3592811489645268632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.BeamDownIntro_15
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 13
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e1b77985376c820800000000000000
+      internalID: 2938162631241571895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.BeamDownIntro_16
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 13
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc686d0e4943b980800000000000000
+      internalID: -8524389070100992822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MMX.BeamDownIntro_0: 8701877763600197683
+      MMX.BeamDownIntro_1: -7440139253009957678
+      MMX.BeamDownIntro_10: -531571820561540139
+      MMX.BeamDownIntro_11: 8331009687108977255
+      MMX.BeamDownIntro_12: -3705250194646562459
+      MMX.BeamDownIntro_13: -7987006136615605153
+      MMX.BeamDownIntro_14: -3592811489645268632
+      MMX.BeamDownIntro_15: 2938162631241571895
+      MMX.BeamDownIntro_16: -8524389070100992822
+      MMX.BeamDownIntro_2: 107209935916961360
+      MMX.BeamDownIntro_3: -3809260227128614370
+      MMX.BeamDownIntro_4: 6832017644889529068
+      MMX.BeamDownIntro_5: 7879324522431134454
+      MMX.BeamDownIntro_6: 8733703869411978172
+      MMX.BeamDownIntro_7: 8213216619547440190
+      MMX.BeamDownIntro_8: 5236577823597910031
+      MMX.BeamDownIntro_9: -418703102351246052
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,540 @@
+fileFormatVersion: 2
+guid: d3d2c84bf76a0f949840e7f33b433d3e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7612707800792442030
+    second: MMX.Shoot.Walking_0
+  - first:
+      213: 3139429059397844951
+    second: MMX.Shoot.Walking_1
+  - first:
+      213: 580228393152998226
+    second: MMX.Shoot.Walking_2
+  - first:
+      213: 2425443696378474028
+    second: MMX.Shoot.Walking_3
+  - first:
+      213: 5855450647637057142
+    second: MMX.Shoot.Walking_4
+  - first:
+      213: -641695848408404984
+    second: MMX.Shoot.Walking_5
+  - first:
+      213: 110378318823928452
+    second: MMX.Shoot.Walking_6
+  - first:
+      213: 7363869478302545534
+    second: MMX.Shoot.Walking_7
+  - first:
+      213: -5105193533771504934
+    second: MMX.Shoot.Walking_8
+  - first:
+      213: 3950300087405943402
+    second: MMX.Shoot.Walking_9
+  - first:
+      213: -8749306276412071039
+    second: MMX.Shoot.Walking_10
+  - first:
+      213: 2973356745235258074
+    second: MMX.Shoot.Walking_11
+  - first:
+      213: -7500121926217272744
+    second: MMX.Shoot.Walking_12
+  - first:
+      213: 7281435707335655975
+    second: MMX.Shoot.Walking_13
+  - first:
+      213: 7239690479907209847
+    second: MMX.Shoot.Walking_14
+  - first:
+      213: 2563286465689886746
+    second: MMX.Shoot.Walking_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MMX.Shoot.Walking_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bdbeac69a3a5690800000000000000
+      internalID: -7612707800792442030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.Shoot.Walking_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df72fa981e719b20800000000000000
+      internalID: 3139429059397844951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.Shoot.Walking_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bea7e36a26d0800800000000000000
+      internalID: 580228393152998226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.Shoot.Walking_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 3
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e6959f038e8a120800000000000000
+      internalID: 2425443696378474028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.Shoot.Walking_4
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 3
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67edc3c275db24150800000000000000
+      internalID: 5855450647637057142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.Shoot.Walking_5
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c26c5960d3817f0800000000000000
+      internalID: -641695848408404984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.Shoot.Walking_6
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 2
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482b7640f74288100800000000000000
+      internalID: 110378318823928452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.Shoot.Walking_7
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 2
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76709a6648b13660800000000000000
+      internalID: 7363869478302545534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.Shoot.Walking_8
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 2
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2aded8785b629b0800000000000000
+      internalID: -5105193533771504934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.Shoot.Walking_9
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 3
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a960afff842d630800000000000000
+      internalID: 3950300087405943402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.Shoot.Walking_10
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 2
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183ec532c48349680800000000000000
+      internalID: -8749306276412071039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.Shoot.Walking_11
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 2
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada524ec43c734920800000000000000
+      internalID: 2973356745235258074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.Shoot.Walking_12
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85273bf68d63ae790800000000000000
+      internalID: -7500121926217272744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.Shoot.Walking_13
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7224696723bdc0560800000000000000
+      internalID: 7281435707335655975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.Shoot.Walking_14
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77285aa422c887460800000000000000
+      internalID: 7239690479907209847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MMX.Shoot.Walking_15
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10230da57f929320800000000000000
+      internalID: 2563286465689886746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MMX.Shoot.Walking_0: -7612707800792442030
+      MMX.Shoot.Walking_1: 3139429059397844951
+      MMX.Shoot.Walking_10: -8749306276412071039
+      MMX.Shoot.Walking_11: 2973356745235258074
+      MMX.Shoot.Walking_12: -7500121926217272744
+      MMX.Shoot.Walking_13: 7281435707335655975
+      MMX.Shoot.Walking_14: 7239690479907209847
+      MMX.Shoot.Walking_15: 2563286465689886746
+      MMX.Shoot.Walking_2: 580228393152998226
+      MMX.Shoot.Walking_3: 2425443696378474028
+      MMX.Shoot.Walking_4: 5855450647637057142
+      MMX.Shoot.Walking_5: -641695848408404984
+      MMX.Shoot.Walking_6: 110378318823928452
+      MMX.Shoot.Walking_7: 7363869478302545534
+      MMX.Shoot.Walking_8: -5105193533771504934
+      MMX.Shoot.Walking_9: 3950300087405943402
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

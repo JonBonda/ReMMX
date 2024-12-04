@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MegaManVII-IntroductionStage00_0: -8801217947155317396
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
