@@ -22,8 +22,8 @@ public class PlayerMovement : MonoBehaviour
 
     public float jumpForce = 15.0f;
     private bool isJumping = false;
-    private int jumpCount;
-    public int maxJumpCount = 3;
+    // private int jumpCount;
+    // public int maxJumpCount = 3;
 
     public Transform ceilingCheck;
     public Transform groundCheck;
@@ -32,14 +32,16 @@ public class PlayerMovement : MonoBehaviour
     public bool isGrounded;
     public float checkRadius;
 
-
+    public GameObject projectilePrefab;
+    public Transform launchPoint;
 
 
     public void Start()
     {
-        jumpCount = maxJumpCount;
+        // jumpCount = maxJumpCount;
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
+        isGrounded = true;
 
 
     }
@@ -55,14 +57,15 @@ public class PlayerMovement : MonoBehaviour
 
     }
 
-    private void ChangeAnimation(string animation, float crossfaderate = 0.2f)
+    private void ChangeAnimation(string animation, float crossfaderate = 0f)
     {
         if (currentAnimation != animation)
         {
 
-            // animator.Play();
+            
             currentAnimation = animation;
-            animator.CrossFade(animation, crossfaderate);
+            animator.Play(animation);
+            // animator.CrossFade(animation, crossfaderate);
         }
 
     }
@@ -102,22 +105,20 @@ public class PlayerMovement : MonoBehaviour
         if (moveDirection > 0 && !facingRight)
         {
             flipCharacter();
-            animator.CrossFade("Run", 0);
+            animator.Play("Run"); // animator.CrossFade("Run", 0);
+
         }
         else if (moveDirection < 0 && facingRight)
         {
             flipCharacter();
-            animator.CrossFade("Run", 0);
-            
+            animator.Play("Run"); // animator.CrossFade("Run", 0);
+
         }
         else if (moveDirection == 0)
         {
-            animator.CrossFade("Idle", 0);
+            animator.Play("Idle"); // animator.CrossFade("Idle", 0);
         }
-        else if (Input.GetKeyDown(KeyCode.R) && moveDirection != 0) //  DASH
-        {
-            animator.CrossFade("Dash", 0);
-        }
+        //else if (Input.GetKeyDown(KeyCode.R) && moveDirection != 0) //  DASH        {            animator.CrossFade("Dash", 0);        }
 
 
         //else if (moveDirection == 0 && Input.GetKeyDown(KeyCode.DownArrow))   animator.CrossFade("MMX_Crouch", 0);
@@ -132,10 +133,20 @@ public class PlayerMovement : MonoBehaviour
         moveDirection = Input.GetAxis("Horizontal");
         if (Input.GetButtonDown("Jump") )// && jumpCount > 0) // if (Input.GetButtonDown("Jump")  && isGrounded) // if (Input.GetKey(KeyCode.Space) && isGrounded) 
         {
+            animator.Play("Jump"); // animator.CrossFade("Jump", 0f);
             isJumping = true;
             Debug.Log("Spacebar JUMP");
-            Debug.Log("JumpCount#: " + jumpCount);
-            animator.CrossFade("Jump", 0);
+            // Debug.Log("JumpCount#: " + jumpCount);
+            
+        }
+
+        if (Input.GetKeyDown(KeyCode.Alpha1) ) // && isGrounded) // && jumpCount > 0) // if (Input.GetButtonDown("Jump")  && isGrounded) // if (Input.GetKey(KeyCode.Space) && isGrounded) 
+        {
+            animator.Play("IdleShoot"); // animator.CrossFade("Jump", 0f);
+            Shoot();
+            Debug.Log("LeftShift IdleShoot");
+            
+
         }
 
     }
@@ -144,6 +155,14 @@ public class PlayerMovement : MonoBehaviour
     {
         facingRight = !facingRight;
         rb.transform.Rotate(0f, 180f, 0f);
+        
+    }
+
+    private void Shoot()
+    {
+
+        Instantiate(projectilePrefab, launchPoint.position, Quaternion.identity);  // transform.rotation);
+
     }
 
 }
